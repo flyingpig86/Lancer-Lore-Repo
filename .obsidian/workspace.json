@@ -11,30 +11,8 @@
             "id": "520185d301ca5314",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Update Cradle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e19253ea2672e087",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2285964d3e04fb8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "new ",
+                "query": "#update",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Update Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Update Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lancer Lore/Update Cradle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "520185d301ca5314",
+  "active": "12127dc2bed2d00c",
   "lastOpenFiles": [
-    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
+    "Lancer Lore/Update Cradle.md",
     "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
     "Lancer Lore/Locations/Evergreen.md",
     "Lancer Lore/Locations/Hercynia.md",
     "Lancer Lore/Update UNION SCIENCE BUREAU.md",
     "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
     "Lancer Lore/Update Blinkspace.md",
     "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/`Key Terms/Clones.md",
-    "Lancer Lore/`Key Terms/Artificial Intelligence.md"
+    "Lancer Lore/`Key Terms/Clones.md"
   ]
 }
