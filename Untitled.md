@@ -1,4 +1,5 @@
-```quer
+```query
+search
 ```
 
 tag: #update
