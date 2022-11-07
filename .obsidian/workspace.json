@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#gms",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
