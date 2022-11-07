@@ -2,10 +2,10 @@
 
 # Sites
 
-##Council Hall
+## Council Hall
 The meeting hall for Evergreen’s town council is a
 large, low, ferrocrete building, the Council Hall is
 populated at all times by a steady stream of people
 involved in the administration of the city.
 
-##
+## Cold S
