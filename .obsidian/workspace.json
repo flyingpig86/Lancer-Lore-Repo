@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Clones.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Clones.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Clones.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Clones.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -148,8 +148,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36216feb7d8bf7f0",
+  "active": "4ea99b4de397f5e4",
   "lastOpenFiles": [
+    "Lancer Lore/`Key Terms/Clones.md",
     "Lancer Lore/`Key Terms/Interstellar Travel.md",
     "Lancer Lore/Factions/Landmark Colonial.md",
     "Untitled.md",
@@ -158,7 +159,6 @@
     "Lancer Lore/`Key Terms/Paracausal.md",
     "Lancer Lore/`Key Terms/Omninet.md",
     "Lancer Lore/`Key Terms/Non-Human Persons.md",
-    "Lancer Lore/`Key Terms/MONIST-1.md",
-    "Lancer Lore/`Key Terms/Manna.md"
+    "Lancer Lore/`Key Terms/MONIST-1.md"
   ]
 }
