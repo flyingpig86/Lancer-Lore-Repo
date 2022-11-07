@@ -1,6 +1,7 @@
 
 ---
 aliases: [Free People]
+tags: [new]
 ---
 
 #AddTo 
