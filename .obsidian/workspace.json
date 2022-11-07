@@ -11,8 +11,12 @@
             "id": "8a3e11e18f1c0a6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md"
+              }
             }
           }
         ]
@@ -128,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ea99b4de397f5e4",
+  "active": "8a3e11e18f1c0a6d",
   "lastOpenFiles": [
     "test.md"
   ]
