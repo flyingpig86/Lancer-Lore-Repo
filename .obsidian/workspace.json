@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/New MIRRORSMOKE MERCENARY COMPANY.md",
+                "file": "Lancer Lore/Update Cradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/New MIRRORSMOKE MERCENARY COMPANY.md",
+                "file": "Lancer Lore/Update Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/New MIRRORSMOKE MERCENARY COMPANY.md",
+                "file": "Lancer Lore/Update Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/New MIRRORSMOKE MERCENARY COMPANY.md"
+                "file": "Lancer Lore/Update Cradle.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "520185d301ca5314",
   "lastOpenFiles": [
+    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
     "Lancer Lore/Locations/Cradle.md",
     "Lancer Lore/Locations/Evergreen.md",
     "Lancer Lore/Locations/Hercynia.md",
@@ -163,7 +164,6 @@
     "Lancer Lore/Update Blinkspace.md",
     "Lancer Lore/`Key Terms/Interstellar Travel.md",
     "Lancer Lore/`Key Terms/Clones.md",
-    "Lancer Lore/`Key Terms/Artificial Intelligence.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md"
+    "Lancer Lore/`Key Terms/Artificial Intelligence.md"
   ]
 }
