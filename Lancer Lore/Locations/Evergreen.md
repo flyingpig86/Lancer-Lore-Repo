@@ -8,7 +8,7 @@
 # Sites
 
 ## Governor's Farm
-
+The “Governor’s Farm” is the administrative heart of Evergreen. Built in the center of the city, the Governor’s Farm is a walled complex containing numerous important buildings.
 
 ## Council Hall
 The meeting hall for Evergreen’s town council is a large, low, ferrocrete building, the Council Hall is populated at all times by a steady stream of people involved in the administration of the city.
