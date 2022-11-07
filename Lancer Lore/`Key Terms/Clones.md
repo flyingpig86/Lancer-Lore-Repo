@@ -15,6 +15,7 @@ Growing a body is easy; it is a very different thing – and much more fraught �
 >[!failure]
 
 # Clones under SeccComm
+#update
 
 Under the [[Second Committee]], facsimile clones were a popular option for states, corporations, and other bodies in need of labor, constituents, or a ready supply of soldiers. The Anthrochauvinist government viewed clones not as individual persons, but as the legal property of their donors – a residual patriarchal construct that identified donors as the “progenitors” of their offspring, giving them full legal authority over beings that would not have existed without the donor’s intervention.
 
