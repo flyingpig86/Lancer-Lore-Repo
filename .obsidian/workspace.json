@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c03080fbef0a5894",
+        "id": "9d6e280725c7fe36",
         "type": "tabs",
         "children": [
           {
-            "id": "8a3e11e18f1c0a6d",
+            "id": "520185d301ca5314",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Factions/Ungratefuls.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,20 +118,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lancer Lore/Factions/Ungratefuls.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8a3e11e18f1c0a6d",
+  "active": "520185d301ca5314",
   "lastOpenFiles": [
+    "Lancer Lore/``Root/Key Terms List.md",
+    "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/Factions/Landmark Colonial.md",
+    "Lancer Lore/Factions/Ungratefuls.md",
     "Lancer Lore/Factions/Karrakin Trade Baronies.md",
     "Lancer Lore/Mechs/GMS/Sagarmath.md",
     "test.md"
