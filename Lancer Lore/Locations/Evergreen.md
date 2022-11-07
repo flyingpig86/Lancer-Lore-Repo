@@ -12,3 +12,4 @@ The colony’s largest printer, and its only scheduled one – the “Print Shop
 
 Evergreen’s western edge is bordered by a wide, slow-moving river. Across the water is a broad expanse of semi-developed farmland that stretches for kilometers before petering out into thick, temperate rainforest.
 
+The colony’s initial urban growth boundary was defined by Patience, the colony’s administrative NHP, and staked out by planners and construction workers. Tall, vacant apartment blocks stand close to the river – ten-plus stories of habitats built, sealed, and awaiting their tenants – and loom over the comparatively small, populated inland districts, which are composed of smaller apartment blocks, two to three stories tall.
