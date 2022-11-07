@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#update",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36216feb7d8bf7f0",
+  "active": "12127dc2bed2d00c",
   "lastOpenFiles": [
     "Lancer Lore/`Key Terms/Clones.md",
     "Lancer Lore/`Key Terms/Interstellar Travel.md",
