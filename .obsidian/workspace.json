@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Clones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36216feb7d8bf7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
+                "file": "Lancer Lore/zzPersonal Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#gms",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
+                "file": "Lancer Lore/zzPersonal Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
+                "file": "Lancer Lore/zzPersonal Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md"
+                "file": "Lancer Lore/zzPersonal Index.md"
               }
             }
           }
@@ -148,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36216feb7d8bf7f0",
+  "active": "520185d301ca5314",
   "lastOpenFiles": [
-    "Lancer Lore/Factions/Landmark Colonial.md",
-    "Untitled.md",
-    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "Lancer Lore/Factions/Albatross.md",
-    "Lancer Lore/`Key Terms/Paracausal.md",
-    "Lancer Lore/`Key Terms/Omninet.md",
-    "Lancer Lore/`Key Terms/Non-Human Persons.md",
-    "Lancer Lore/`Key Terms/MONIST-1.md",
+    "Lancer Lore/`Key Terms/Clones.md",
+    "zzPersonal Index.md",
+    "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
+    "Lancer Lore/`Key Terms/Cosmopolitans.md",
+    "Lancer Lore/`Key Terms/Galactic Core.md",
     "Lancer Lore/`Key Terms/Manna.md",
+    "Lancer Lore/`Key Terms/Omninet.md",
+    "Lancer Lore/`Key Terms/MONIST-1.md",
+    "Lancer Lore/Factions/Mech Manufacturers/The Big Four/SMITH-SHIMANO CORPRO.md",
     "Lancer Lore/`Key Terms/Interstellar Travel.md"
   ]
 }
