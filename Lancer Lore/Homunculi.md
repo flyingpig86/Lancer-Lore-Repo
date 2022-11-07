@@ -1,4 +1,5 @@
-#AddTo Key Terms/...
+---
+tags
 
 A homunculus is the captured digital emulation of a person, living or dead. Homunculi are not conscious, nor are they “intelligent” in the way that [[Non-Human Persons|NHP]] or higher-order non-human minds are; like smart weapons, homunculi are, essentially, specialized comp/con units, used in specific contexts where a specific person’s expertise is necessary.
 
