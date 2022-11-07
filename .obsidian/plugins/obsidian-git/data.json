@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Main Desktop: {{date}}",
-  "autoCommitMessage": "Main Desktop Auto: {{date}}",
+  "commitMessage": "Main PC Auto: {{date}}",
+  "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0.1,
   "autoPushInterval": 0,
@@ -18,7 +18,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
