@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c03080fbef0a5894",
+        "id": "9d6e280725c7fe36",
         "type": "tabs",
         "children": [
           {
-            "id": "8a3e11e18f1c0a6d",
+            "id": "520185d301ca5314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "new ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,16 +124,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8a3e11e18f1c0a6d",
-  "lastOpenFiles": []
+  "active": "520185d301ca5314",
+  "lastOpenFiles": [
+    "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md",
+    "Lancer Lore/Factions/Landmark Colonial.md",
+    "Lancer Lore/Factions/Ungratefuls.md",
+    "Lancer Lore/``Root/Key Terms List.md",
+    "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/Factions/Karrakin Trade Baronies.md",
+    "Lancer Lore/Mechs/GMS/Sagarmath.md",
+    "test.md"
+  ]
 }
