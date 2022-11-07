@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36216feb7d8bf7f0",
+  "active": "4ea99b4de397f5e4",
   "lastOpenFiles": [
     "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
     "zzPersonal Index.md",
