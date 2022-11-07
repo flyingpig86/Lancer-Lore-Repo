@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "616cda530e9978f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8dc4b6c764ef78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md"
               }
             }
           }
@@ -148,10 +166,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36216feb7d8bf7f0",
+  "active": "ce8dc4b6c764ef78",
   "lastOpenFiles": [
-    "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
     "Untitled.md",
+    "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
     "Lancer Lore/`Key Terms/Cosmopolitans.md",
     "Lancer Lore/`Key Terms/Galactic Core.md",
     "Lancer Lore/`Key Terms/Manna.md",
