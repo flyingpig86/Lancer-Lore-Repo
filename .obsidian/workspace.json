@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "12127dc2bed2d00c",
+  "active": "4ea99b4de397f5e4",
   "lastOpenFiles": [
     "Lancer Lore/Factions/Albatross.md",
     "Lancer Lore/`Key Terms/Paracausal.md",
