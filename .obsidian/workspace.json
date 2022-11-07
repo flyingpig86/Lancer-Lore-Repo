@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzPersonal Index.md",
+                "file": "Lancer Lore/`Key Terms/Clones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzPersonal Index.md",
+                "file": "Lancer Lore/`Key Terms/Clones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzPersonal Index.md"
+                "file": "Lancer Lore/`Key Terms/Clones.md"
               }
             }
           }
@@ -135,10 +135,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4ea99b4de397f5e4",
+  "active": "520185d301ca5314",
   "lastOpenFiles": [
-    "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
     "zzPersonal Index.md",
+    "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
     "Lancer Lore/`Key Terms/Cosmopolitans.md",
     "Lancer Lore/`Key Terms/Galactic Core.md",
     "Lancer Lore/`Key Terms/Manna.md",
