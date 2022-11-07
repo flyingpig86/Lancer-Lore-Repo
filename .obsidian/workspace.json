@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzPersonal Index.md",
+                "file": "Lancer Lore/Locations/Hercynia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzPersonal Index.md",
+                "file": "Lancer Lore/Locations/Hercynia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzPersonal Index.md",
+                "file": "Lancer Lore/Locations/Hercynia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzPersonal Index.md"
+                "file": "Lancer Lore/Locations/Hercynia.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "c09d20a9fa1cd22f",
   "lastOpenFiles": [
-    "Lancer Lore/`Key Terms/Clones.md",
-    "Lancer Lore/Update Clones.md",
-    "Lancer Lore/`Key Terms/Homunculi.md",
+    "Lancer Lore/Locations/Evergreen.md",
+    "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/Locations/Hercynia.md",
     "zzPersonal Index.md",
     "Lancer Lore/Factions/Karrakin Trade Baronies.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/zzPersonal Index.md",
-    "Lancer Lore/Locations/Cradle.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md"
+    "Lancer Lore/Factions/Ungratefuls.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/UNION ECONOMIC BUREAU.md",
+    "Lancer Lore/`Key Terms/Clones.md",
+    "Lancer Lore/Update Clones.md",
+    "Lancer Lore/`Key Terms/Homunculi.md"
   ]
 }
