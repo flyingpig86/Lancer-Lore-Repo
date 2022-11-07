@@ -1,5 +1,6 @@
 ---
 aliases: [KTB,Baronies]
+tags: [new]
 ---
 
 #AddTo 

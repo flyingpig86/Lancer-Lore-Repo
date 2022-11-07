@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md",
+                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md",
+                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md",
+                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Mechs/GMS/Sagarmath.md"
+                "file": "Lancer Lore/Factions/Ungratefuls.md"
               }
             }
           }
@@ -139,6 +138,8 @@
   },
   "active": "8a3e11e18f1c0a6d",
   "lastOpenFiles": [
+    "Lancer Lore/Factions/Karrakin Trade Baronies.md",
+    "Lancer Lore/Mechs/GMS/Sagarmath.md",
     "test.md"
   ]
 }
