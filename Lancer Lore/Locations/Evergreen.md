@@ -1,7 +1,7 @@
 ![Imgur](https://i.imgur.com/4mlnC3y.png)
 
 # People
-[[]]
+[[Brava Hadura - Militia Commander]]
 [[Patience - Colonial Administrator]]
 
 # Sites
