@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/`Key Terms/-Index - Key Terms.md",
+                "file": "Lancer Lore/zzPersonal Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/`Key Terms/-Index - Key Terms.md",
+                "file": "Lancer Lore/zzPersonal Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/`Key Terms/-Index - Key Terms.md",
+                "file": "Lancer Lore/zzPersonal Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/`Key Terms/-Index - Key Terms.md"
+                "file": "Lancer Lore/zzPersonal Index.md"
               }
             }
           }
@@ -136,12 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "671c884fb952778c",
+  "active": "c09d20a9fa1cd22f",
   "lastOpenFiles": [
-    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+    "Lancer Lore/`Key Terms/Clones.md",
+    "zzPersonal Index.md",
+    "Lancer Lore/Mechs/GMS/Sagarmath.md",
+    "Lancer Lore/`Key Terms/Interstellar Travel.md",
     "Lancer Lore/zzPersonal Index.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
+    "Lancer Lore/`Key Terms/-Index - Key Terms.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
     "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "Lancer Lore/Locations/Cradle.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md"
+    "Lancer Lore/Locations/Cradle.md"
   ]
 }
