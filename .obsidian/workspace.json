@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "57250788a384a69d",
+    "id": "f9b56034263b722c",
     "type": "split",
     "children": [
       {
-        "id": "9d6e280725c7fe36",
+        "id": "fc25748c2d17b6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "520185d301ca5314",
+            "id": "c09d20a9fa1cd22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Locations/Cradle.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3d72f801430184e7",
+    "id": "e7d2aa306da693ad",
     "type": "split",
     "children": [
       {
-        "id": "16b7e6cb2bb67a82",
+        "id": "ba905f3fbbfc41c2",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea99b4de397f5e4",
+            "id": "671c884fb952778c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +39,13 @@
             }
           },
           {
-            "id": "12127dc2bed2d00c",
+            "id": "8e61d300926959d5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "#update",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "465f7f17cb132209",
+            "id": "c3d8acf5d38b344a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "bc3a46e87cf2a30b",
+    "id": "3bac2e294ef12db0",
     "type": "split",
     "children": [
       {
-        "id": "dc9d3d8020d7ac8c",
+        "id": "7cee4f42ab150f94",
         "type": "tabs",
         "children": [
           {
-            "id": "743268177a9b2cda",
+            "id": "71699faaf29f6c20",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Locations/Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "cc4d714b74199578",
+            "id": "cc4006d0c2a0cdc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Locations/Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0a74ca5b0b0f8956",
+            "id": "b5d156c90c42da37",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,32 +114,25 @@
             }
           },
           {
-            "id": "99e20d28344c6c94",
+            "id": "4eb65730fd9168cc",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lancer Lore/Locations/Cradle.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "520185d301ca5314",
+  "active": "c09d20a9fa1cd22f",
   "lastOpenFiles": [
-    "Lancer Lore/Update Cradle.md",
+    "zzPersonal Index.md",
     "Lancer Lore/Locations/Cradle.md",
     "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "Lancer Lore/Locations/Evergreen.md",
-    "Lancer Lore/Locations/Hercynia.md",
-    "Lancer Lore/Update UNION SCIENCE BUREAU.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
-    "Lancer Lore/Update Blinkspace.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/`Key Terms/Clones.md"
+    "test.md"
   ]
 }
