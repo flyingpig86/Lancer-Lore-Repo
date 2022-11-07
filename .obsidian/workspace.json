@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
+                "file": "Lancer Lore/Update Blinkspace.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
+                "file": "Lancer Lore/Update Blinkspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
+                "file": "Lancer Lore/Update Blinkspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md"
+                "file": "Lancer Lore/Update Blinkspace.md"
               }
             }
           }
@@ -138,12 +138,14 @@
   "active": "520185d301ca5314",
   "lastOpenFiles": [
     "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
+    "Lancer Lore/Update Blinkspace.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/DEPARTMENT OF JUSTICE AND HUMAN RIGHTS.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/BUREAU OF COLONIAL ADMINISTRATION.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
     "Lancer Lore/Factions/Landmark Colonial.md",
     "Lancer Lore/Factions/Ungratefuls.md",
     "Lancer Lore/``Root/Key Terms List.md",
-    "Lancer Lore/Locations/Cradle.md",
-    "Lancer Lore/Factions/Karrakin Trade Baronies.md",
-    "Lancer Lore/Mechs/GMS/Sagarmath.md",
-    "test.md"
+    "Lancer Lore/Locations/Cradle.md"
   ]
 }
