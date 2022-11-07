@@ -2,7 +2,7 @@
 aliases: [USB]
 ---
 
-#
+#update
 The Union Science Bureau is the central administrative body for universities, colleges, scientific institutions, and think tanks throughout [[``Union|Union]] space. Ostensibly an apolitical entity, the USB works outside and parallel to [[UNION CENTRAL COMMITTEEUNION CENTRAL COMMITTEE|CentComm]]’s chain of command, though it is subject to some oversight from [[UNION CENTRAL COMMITTEEUNION CENTRAL COMMITTEE|CentComm]] and [[GALSIM]].
 
 The most common site of interaction between the public and the USB is its exhausting list of colleges, universities, and public schools – however, it is most commonly represented in media in the form of the [[Update UNION SCIENCE BUREAU#Far Field Team|far-field team]] (FFT) – popularly called “rangers”. 

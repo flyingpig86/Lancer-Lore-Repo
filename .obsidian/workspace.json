@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Update UNION SCIENCE BUREAU.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md"
+                "file": "Lancer Lore/Locations/Cradle.md"
               }
             }
           }
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2285964d3e04fb8d",
+  "active": "520185d301ca5314",
   "lastOpenFiles": [
+    "Lancer Lore/Locations/Evergreen.md",
+    "Lancer Lore/Locations/Hercynia.md",
+    "Lancer Lore/Locations/Cradle.md",
     "Lancer Lore/Update UNION SCIENCE BUREAU.md",
     "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
     "Lancer Lore/Update Blinkspace.md",
     "Lancer Lore/`Key Terms/Interstellar Travel.md",
     "Lancer Lore/`Key Terms/Clones.md",
     "Lancer Lore/`Key Terms/Artificial Intelligence.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/DEPARTMENT OF JUSTICE AND HUMAN RIGHTS.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/BUREAU OF COLONIAL ADMINISTRATION.md"
+    "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md"
   ]
 }
