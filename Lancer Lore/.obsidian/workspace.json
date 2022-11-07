@@ -1,44 +1,35 @@
 {
   "main": {
-    "id": "57250788a384a69d",
+    "id": "f9b56034263b722c",
     "type": "split",
     "children": [
       {
-        "id": "8a6c63415d604a5c",
+        "id": "d2a308b40d316323",
         "type": "tabs",
         "children": [
           {
-            "id": "4cbee651fa29f592",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b84de2d14dd5e3b3",
+            "id": "574ecb6a0c20f918",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3d72f801430184e7",
+    "id": "e7d2aa306da693ad",
     "type": "split",
     "children": [
       {
-        "id": "16b7e6cb2bb67a82",
+        "id": "ba905f3fbbfc41c2",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea99b4de397f5e4",
+            "id": "671c884fb952778c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +39,13 @@
             }
           },
           {
-            "id": "12127dc2bed2d00c",
+            "id": "8e61d300926959d5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gms",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -63,7 +54,7 @@
             }
           },
           {
-            "id": "465f7f17cb132209",
+            "id": "c3d8acf5d38b344a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "bc3a46e87cf2a30b",
+    "id": "3bac2e294ef12db0",
     "type": "split",
     "children": [
       {
-        "id": "dc9d3d8020d7ac8c",
+        "id": "7cee4f42ab150f94",
         "type": "tabs",
         "children": [
           {
-            "id": "743268177a9b2cda",
+            "id": "71699faaf29f6c20",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -101,7 +92,7 @@
             }
           },
           {
-            "id": "cc4d714b74199578",
+            "id": "cc4006d0c2a0cdc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,7 +103,7 @@
             }
           },
           {
-            "id": "0a74ca5b0b0f8956",
+            "id": "b5d156c90c42da37",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,7 +114,7 @@
             }
           },
           {
-            "id": "99e20d28344c6c94",
+            "id": "4eb65730fd9168cc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,17 +127,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b84de2d14dd5e3b3",
+  "active": "671c884fb952778c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Lancer Lore/zzPersonal Index.md",
-    "Lancer Lore/`Key Terms/Clones.md",
     "zzPersonal Index.md",
-    "Lancer Lore/Mechs/GMS/GMS Standard Pattern 1.md",
-    "Lancer Lore/`Key Terms/Cosmopolitans.md",
-    "Lancer Lore/`Key Terms/Galactic Core.md",
-    "Lancer Lore/`Key Terms/Manna.md",
-    "Lancer Lore/`Key Terms/Omninet.md",
-    "Lancer Lore/`Key Terms/MONIST-1.md"
+    "conflict-files-obsidian-git.md",
+    "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
+    "test.md"
   ]
 }
