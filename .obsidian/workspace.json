@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#updat",
+                "query": "tag:#new",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
