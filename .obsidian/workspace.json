@@ -11,12 +11,8 @@
             "id": "c09d20a9fa1cd22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzPersonal Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzPersonal Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzPersonal Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zzPersonal Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,12 +130,15 @@
   },
   "active": "c09d20a9fa1cd22f",
   "lastOpenFiles": [
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
     "Lancer Lore/zzPersonal Index.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
-    "Lancer Lore/`Key Terms/-Index - Key Terms.md",
     "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
-    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "Lancer Lore/Locations/Cradle.md"
+    "Lancer Lore/`Key Terms/Interstellar Travel.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
+    "Lancer Lore/`Key Terms/Galactic Core.md",
+    "Lancer Lore/`Key Terms/Diasporans.md",
+    "Lancer Lore/`Key Terms/Cosmopolitans.md",
+    "Lancer Lore/`Key Terms/Clones.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/-Index - The Departments of Union.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md"
   ]
 }
