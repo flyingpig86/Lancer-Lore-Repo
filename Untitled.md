@@ -1,5 +1,5 @@
 ---
-tag:[update]
+tags:[update]
 ---
 
 ```query
