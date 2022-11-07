@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Factions/Landmark Colonial.md",
+                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Factions/Landmark Colonial.md",
+                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Factions/Landmark Colonial.md",
+                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Factions/Landmark Colonial.md"
+                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md"
               }
             }
           }
@@ -148,10 +148,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4ea99b4de397f5e4",
+  "active": "36216feb7d8bf7f0",
   "lastOpenFiles": [
-    "Untitled.md",
     "Lancer Lore/Factions/Landmark Colonial.md",
+    "Untitled.md",
     "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
     "Lancer Lore/Factions/Albatross.md",
     "Lancer Lore/`Key Terms/Paracausal.md",
