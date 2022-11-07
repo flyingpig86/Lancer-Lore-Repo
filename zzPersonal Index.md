@@ -5,5 +5,4 @@ tag:#new
 
 ```query
 tag:#update
-
 ```
