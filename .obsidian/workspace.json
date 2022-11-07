@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Galactic Core.md",
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Galactic Core.md",
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Galactic Core.md",
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/`Key Terms/Galactic Core.md"
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md"
               }
             }
           }
@@ -137,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c09d20a9fa1cd22f",
+  "active": "671c884fb952778c",
   "lastOpenFiles": [
+    "Lancer Lore/`Key Terms/Galactic Core.md",
     "Lancer Lore/`Key Terms/Diasporans.md",
     "Lancer Lore/`Key Terms/Cosmopolitans.md",
     "Lancer Lore/`Key Terms/Clones.md",
@@ -147,7 +148,6 @@
     "Lancer Lore/Factions/Union/The Departments of Union/GALSIM.md",
     "Lancer Lore/zzPersonal Index.md",
     "zzPersonal Index.md",
-    "Lancer Lore/Mechs/GMS/Sagarmath.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md"
+    "Lancer Lore/Mechs/GMS/Sagarmath.md"
   ]
 }
