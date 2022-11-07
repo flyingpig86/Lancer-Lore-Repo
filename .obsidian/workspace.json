@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/New Ungratefuls.md",
+                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/New Ungratefuls.md",
+                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/New Ungratefuls.md",
+                "file": "Lancer Lore/Factions/Ungratefuls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/New Ungratefuls.md"
+                "file": "Lancer Lore/Factions/Ungratefuls.md"
               }
             }
           }
@@ -135,7 +135,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c09d20a9fa1cd22f",
+  "active": "671c884fb952778c",
   "lastOpenFiles": [
     "Lancer Lore/Factions/Karrakin Trade Baronies.md",
     "zzPersonal Index.md",
