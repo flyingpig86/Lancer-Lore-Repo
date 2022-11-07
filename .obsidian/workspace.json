@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a308b40d316323",
+        "id": "fc25748c2d17b6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "574ecb6a0c20f918",
+            "id": "c09d20a9fa1cd22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzPersonal Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzPersonal Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzPersonal Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,23 +118,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zzPersonal Index.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "574ecb6a0c20f918",
+  "active": "c09d20a9fa1cd22f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "zzPersonal Index.md",
-    "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/`Key Terms/Interstellar Travel.md",
+    "Lancer Lore/zzPersonal Index.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/Union Intelligence Bureau.md",
+    "Lancer Lore/`Key Terms/-Index - Key Terms.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
     "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "test.md"
+    "Lancer Lore/Locations/Cradle.md"
   ]
 }
