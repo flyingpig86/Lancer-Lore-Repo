@@ -3,6 +3,7 @@
 # People
 [[Brava Hadura - Militia Commander]]
 [[Patience - Colonial Administrator]]
+[[Edena Ji - Attaché]]
 
 # Sites
 
