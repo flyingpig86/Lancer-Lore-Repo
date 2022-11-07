@@ -1,0 +1,2 @@
+Patience is [[Evergreen]]’s colonial administrator, a [[Landmark Colonial|Landmark]]-developed version of the SIDEWALK-J2 Municipal [[Non-Human Persons|NHP]], a full-spectrum civic administration platform common across the Diaspora.
+![Imgur](https://i.imgur.com/j3h4QQH.png)
