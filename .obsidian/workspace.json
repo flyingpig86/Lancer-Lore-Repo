@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9ba11f66c2930709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#update",
+                "query": "tag:#update tag:#new",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lancer Lore/Factions/Landmark Colonial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lancer Lore/Factions/Landmark Colonial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Lancer Lore/Factions/Landmark Colonial.md"
               }
             }
           }
@@ -160,8 +148,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9ba11f66c2930709",
+  "active": "4ea99b4de397f5e4",
   "lastOpenFiles": [
+    "Untitled.md",
     "Lancer Lore/Factions/Landmark Colonial.md",
     "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
     "Lancer Lore/Factions/Albatross.md",
@@ -170,7 +159,6 @@
     "Lancer Lore/`Key Terms/Non-Human Persons.md",
     "Lancer Lore/`Key Terms/MONIST-1.md",
     "Lancer Lore/`Key Terms/Manna.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/`Key Terms/HOMUNCULI.md"
+    "Lancer Lore/`Key Terms/Interstellar Travel.md"
   ]
 }
