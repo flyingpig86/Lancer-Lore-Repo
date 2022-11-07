@@ -16,8 +16,3 @@ aliases: [FFT, rangers]
 [[Cosmopolitans]] who work on the frontier and the edge of civilization to
 evaluate strange worlds and planetoids for anomalies,
 discoveries, and habitability.
-
-#update
-Flying their iconic Ranger-class nearlight ships, FFTs are small parties of scientists and support staff responsible for venturing to never-before-seen worlds, exploring uncanny or anomalous interstellar phenomena, and all manner of other fieldwork involved in scouting new worlds.
-
-FFTs are made up of romantics, wanderers, and loners, alongside passionate scientists, technicians, philosophers, and engineers of all disciplines. Their missions are dangerous, often requiring long-term stasis and relativistic travel into unexplored systems not connected to the blink network – the data returned is invaluable, more than worth the risk.
