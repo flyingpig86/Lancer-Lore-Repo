@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/zzPersonal Index.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/zzPersonal Index.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/zzPersonal Index.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/zzPersonal Index.md"
+                "file": "Lancer Lore/Locations/Cradle.md"
               }
             }
           }
@@ -138,7 +138,7 @@
   },
   "active": "c09d20a9fa1cd22f",
   "lastOpenFiles": [
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/zzPersonal Index.md"
+    "Lancer Lore/zzPersonal Index.md",
+    "Lancer Lore/`Key Terms/Interstellar Travel.md"
   ]
 }
