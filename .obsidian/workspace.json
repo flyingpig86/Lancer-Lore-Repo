@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "#update",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "12127dc2bed2d00c",
+  "active": "520185d301ca5314",
   "lastOpenFiles": [
     "Lancer Lore/Update Cradle.md",
     "Lancer Lore/Locations/Cradle.md",
