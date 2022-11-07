@@ -1,0 +1,1 @@
+The form of that wealth is<u> manna</u>. Uniting the disparate nations of the human [[Diasporans|diaspora]] outside the [[Galactic Core|Core]], <u>manna</u> is the universal currency accepted by every market on every planet. When a galaxy’s wealth of raw resources are available for exploitation, a community’s wealth comes from both its past and its potential.
