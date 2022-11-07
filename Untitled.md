@@ -3,7 +3,7 @@ tags: [update]
 ---
 
 ```query
-search
+embed
 tag:#GMS
 ```
 
