@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "zzPersonal Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "530b631fface4a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzGM List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918a78bc2cc9cd6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md"
+                "file": "Test.md"
               }
             }
           }
@@ -135,17 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c09d20a9fa1cd22f",
+  "active": "918a78bc2cc9cd6e",
   "lastOpenFiles": [
+    "zzzGM List.md",
     "zzPersonal Index.md",
+    "Lancer Lore/Locations/Evergreen.md",
+    "Lancer Lore/Locations/Hercynia.md",
+    "Lancer Lore/Locations/Cradle.md",
     "Lancer Lore/Factions/Karrakin Trade Baronies.md",
     "Lancer Lore/Factions/Ungratefuls.md",
     "Lancer Lore/Factions/Union/The Departments of Union/UNION ECONOMIC BUREAU.md",
     "Lancer Lore/`Key Terms/Clones.md",
-    "Lancer Lore/Update Clones.md",
-    "Lancer Lore/`Key Terms/Homunculi.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/zzPersonal Index.md",
-    "Lancer Lore/Locations/Cradle.md"
+    "Lancer Lore/Update Clones.md"
   ]
 }
