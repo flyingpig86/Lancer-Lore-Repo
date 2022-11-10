@@ -26,3 +26,5 @@ Connecting all worlds is <u>Blinkspace</u> – an unknowably vast and strange pl
 >[[Interstellar Travel#Nearlight Bolt|Normal Spaceflight]]
 ## Calculating Travel Time
 >[!failure]
+>Requires:
+>[[Interstellar Travel#Time, Space, and How to Travel Through Both|Time, Space, and How to Tra]]
