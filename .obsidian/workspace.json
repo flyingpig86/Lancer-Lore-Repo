@@ -1,39 +1,132 @@
 {
   "main": {
-    "id": "f9b56034263b722c",
+    "id": "7a7b9caae36bc3a3",
     "type": "split",
     "children": [
       {
-        "id": "fc25748c2d17b6e3",
+        "id": "ba3a09bf6e23f340",
         "type": "tabs",
         "children": [
           {
-            "id": "c09d20a9fa1cd22f",
+            "id": "453511b39d271377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Lancer Lore/``Root/Inital Tasking Packet.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19394d20dcefa45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Factions/Albatross.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfb62abbfb8c6024",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1921f0b124d7574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Factions/Albatross.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a038f12f4ce95f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e8fbd87efa4431c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7905b2bd7c3ccad1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "75cf68736d9cc456",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6c1e7fb167788ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Locations/Cradle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb70e65ead560b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lancer Lore/Factions/Union/The Committees/Second Committee.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e7d2aa306da693ad",
+    "id": "954a7acc469ea7ec",
     "type": "split",
     "children": [
       {
-        "id": "ba905f3fbbfc41c2",
+        "id": "9174d33992dad84c",
         "type": "tabs",
         "children": [
           {
-            "id": "671c884fb952778c",
+            "id": "03167249e185c412",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +136,13 @@
             }
           },
           {
-            "id": "8e61d300926959d5",
+            "id": "4934e9f61bf2056f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "!qu",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,34 +151,35 @@
             }
           },
           {
-            "id": "c3d8acf5d38b344a",
+            "id": "88a71436b5386016",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "3bac2e294ef12db0",
+    "id": "f61095e0b6b5492e",
     "type": "split",
     "children": [
       {
-        "id": "7cee4f42ab150f94",
+        "id": "220e61753e96fa1d",
         "type": "tabs",
         "children": [
           {
-            "id": "71699faaf29f6c20",
+            "id": "1b54dff6631c54fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +191,19 @@
             }
           },
           {
-            "id": "cc4006d0c2a0cdc6",
+            "id": "9110e5e05d640ca9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Lancer Lore/Locations/Cradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b5d156c90c42da37",
+            "id": "1ae7957b2ef5f637",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +214,12 @@
             }
           },
           {
-            "id": "4eb65730fd9168cc",
+            "id": "5bc49cb3a25671dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md"
+                "file": "Lancer Lore/Locations/Cradle.md"
               }
             }
           }
@@ -133,19 +227,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c09d20a9fa1cd22f",
+  "active": "f6c1e7fb167788ee",
   "lastOpenFiles": [
-    "Lancer Lore/Locations/Evergreen.md",
+    "Lancer Lore/``Root/'''Key & Shortcuts.md",
     "Lancer Lore/Locations/Cradle.md",
-    "zzPersonal Index.md",
-    "Lancer Lore/Factions/Karrakin Trade Baronies.md",
-    "Lancer Lore/Factions/Ungratefuls.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/UNION ECONOMIC BUREAU.md",
-    "Lancer Lore/`Key Terms/Clones.md",
-    "Lancer Lore/Update Clones.md",
+    "Lancer Lore/Factions/Landmark Colonial.md",
     "Lancer Lore/`Key Terms/Homunculi.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md"
+    "zzPersonal Index.md",
+    "Lancer Lore/Economy & Society/Metroplitan and Diasporan  Worlds.md",
+    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
+    "Lancer Lore/`Key Terms/Interstellar Travel.md",
+    "Lancer Lore/Factions/Ungratefuls.md",
+    "Lancer Lore/Factions/Karrakin Trade Baronies.md"
   ]
 }
