@@ -12,5 +12,5 @@ Cradle and the system in which it can be found (Sol, or the Andes Core) are high
 >cont.
 
 # Other Worlds within the Sol System
->[!]
+>[!failure]
 
