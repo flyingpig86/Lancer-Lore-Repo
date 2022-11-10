@@ -1,3 +1,5 @@
+
+
 # Blink Travel
 #update 
 
@@ -15,4 +17,3 @@ Connecting all worlds is <u>Blinkspace</u> – an unknowably vast and strange pl
 
 # Nearlight Bolt
 >[!failure]
-
