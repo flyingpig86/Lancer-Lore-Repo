@@ -19,5 +19,6 @@ Connecting all worlds is <u>Blinkspace</u> – an unknowably vast and strange pl
 # Nearlight Bolt
 >[!failure]
 
-# Time, Space, and How to Tr
+# Time, Space, and How to Travel Through Both
+
 ## Calculating Travel Time
