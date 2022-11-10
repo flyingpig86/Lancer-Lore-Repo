@@ -1,4 +1,4 @@
-
+Interstellar travel is common for certain classes of people: military personnel, diplomats, explorers, merchants, Union personnel, colonists, migrants, scientists, and a variety of other wanderers. Many people have reason to travel between the stars, but the necessary equipment is difficult to obtain. Generally speaking, travelers with direct access to this equipment are rare – military personnel on deployment, Union officials, representatives of corporations, universities, or patrons, and those who are simply fantastically wealthy. Other travelers are limited to public blinkships, which travel from one blink station to another according to predefined routes. Although blinkspace travel is not the only form of interstellar travel, it is the one most people know. Other methods include nearlight bolts and old-fashioned spaceflight.
 
 # Blink Travel
 #update 
