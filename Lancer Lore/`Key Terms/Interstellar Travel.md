@@ -20,5 +20,6 @@ Connecting all worlds is <u>Blinkspace</u> – an unknowably vast and strange pl
 >[!failure]
 
 # Time, Space, and How to Travel Through Both
-
+>[!failure]
 ## Calculating Travel Time
+>[!failure]
