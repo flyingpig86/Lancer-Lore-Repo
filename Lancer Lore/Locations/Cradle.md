@@ -1,5 +1,5 @@
 ---
-aliases: [Earth, The Sol system, testC]
+aliases: [Earth, The Sol system, Andes Core]
 ---
 >[!info]
 >Union’s name for both Earth and the Sol system, used interchangeably.
