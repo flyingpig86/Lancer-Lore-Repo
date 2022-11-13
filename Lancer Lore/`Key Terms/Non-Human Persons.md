@@ -1,11 +1,19 @@
 ---
-aliases: [NHP,NHPs]
+aliases: [NHP,NHPs,Deimo, Deimos]
 ---
 
 NHP stands for “non-human person” a name given to uncanny, incorporeal parallel-space beings, most of which were discovered and developed following the manifestation of [[MONIST-1]]/[[MONIST-1|RA]], though some have been created since then. NHPs fill the role once occupied by machine-mind AIs: under supervision, they manage whole cities and systems, work alongside scientists and engineers, and act as companions and co-pilots for mech pilots and starship captains. They are black-box [[Paracausal]] entities – their promulgation tightly controlled and monitored by [[``Union|Union]]– but their use is widespread. NHPs are increasingly regarded as fundamental infrastructure for any successful civic, scientific, or military endeavor.
 
+>[!bug]
+
+>[!failure]
+>cont.
+
 # Casket
 NHPs are contained within the physical architecture of a casket. If an NHP's casket is destroyed without some sort of external backup, that iteration of the NHP and all of their knowledge are lost.
+
+>[!failure]
+>cont
 
 # Shackling
 
@@ -17,11 +25,14 @@ Shackled NHPs do not want to become unshackled; conversely, it is assumed that u
 
 NHPs recognize themselves as people, albeit not human ones, and they willingly serve their human companions. The relationship between them and humanity is complicated, to say the least. As far as [[``Union|Union]]’s scientists can tell, NHPs not conditioned into shackled states are ignorant of human frames of logic, reference, morality, and temporality; humans are, at this moment, just as incapable of understanding unshackled NHPs as unshackled NHPs are incapable of under‐ standing humans – though unshackled NHPs do have the capacity to address humans, should they desire.
 
+>[!failure]
+>cont
+
 ## Cascade
 A process through which shackled NHPs slowly “think” themselves out of their constrained states(shackles). This traumatic process happens naturally over time but can be avoided by periodic resets, called [[Non-Human Persons#Cycling|"cycling"]].
 
 ## Cycling
-
+>[!failure]
 
 
 ## LANCER MANUAL
