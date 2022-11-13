@@ -43,4 +43,3 @@ Except for some limited systems – like comp/cons – any time a mech with the 
 When an NHP begins to cascade, they immediately take over the mech and become an NPC under the control of the GM. They plan their own agenda, and adopt one of several behavioral patterns – ignoring their pilot, overruling their pilot, trying to get their pilot out of the way, or simply acting outside the constraints of human logic and desire. In cascade, NHPs’ actions do not always conform to human logic – though they are not yet unshackled, their actions may seem odd, contrapositive, or threatening to humans.
 
 NHPs in cascade can be stabilized by a pilot choosing to SHUT DOWN their mech, returning them to their base state. This is the only action a pilot in a cascading mech can take.
-
