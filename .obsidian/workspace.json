@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ba3a09bf6e23f340",
+        "id": "756821910831575d",
         "type": "tabs",
         "children": [
           {
-            "id": "453511b39d271377",
+            "id": "a412c6d3c9ce2d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/``Root/Inital Tasking Packet.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19394d20dcefa45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Factions/Albatross.md",
+                "file": "Lancer Lore/`Key Terms/Non-Human Persons.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfb62abbfb8c6024",
+            "id": "6cb4f899d4ce9cde",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,79 +28,19 @@
             }
           },
           {
-            "id": "d1921f0b124d7574",
+            "id": "dab097766cf12cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Factions/Albatross.md",
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a038f12f4ce95f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8e8fbd87efa4431c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/`Key Terms/Interstellar Travel.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7905b2bd7c3ccad1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "75cf68736d9cc456",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6c1e7fb167788ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Locations/Cradle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb70e65ead560b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/Factions/Union/The Committees/Second Committee.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "!qu",
+                "query": "mirr",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Locations/Cradle.md",
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,9 +124,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Locations/Cradle.md",
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -219,28 +147,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Locations/Cradle.md"
+                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f6c1e7fb167788ee",
+  "active": "4934e9f61bf2056f",
   "lastOpenFiles": [
-    "Lancer Lore/``Root/'''Key & Shortcuts.md",
-    "Lancer Lore/Locations/Cradle.md",
+    "Lancer Lore/Factions/Union/The Departments of Union/UNION BUREAU OF ORBITAL AND NON-TERRESTRIAL MANAGEMENT.md",
+    "Lancer Lore/Factions/Horizon Collective.md",
+    "Lancer Lore/Factions/Albatross.md",
     "Lancer Lore/Factions/Landmark Colonial.md",
-    "Lancer Lore/`Key Terms/Homunculi.md",
+    "Deimos Event.md",
+    "Lancer Lore/`Key Terms/Non-Human Persons.md",
     "zzPersonal Index.md",
-    "Lancer Lore/Economy & Society/Metroplitan and Diasporan  Worlds.md",
-    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "Lancer Lore/`Key Terms/Interstellar Travel.md",
-    "Lancer Lore/Factions/Ungratefuls.md",
-    "Lancer Lore/Factions/Karrakin Trade Baronies.md"
+    "zzPersonalNotes.md",
+    "Lancer Lore/`Key Terms/Omninet.md",
+    "Lancer Lore/`Key Terms/MONIST-1.md"
   ]
 }
