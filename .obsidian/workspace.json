@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mirr",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
