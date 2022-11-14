@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "file": "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "file": "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "file": "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md"
+                "file": "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md"
               }
             }
           }
@@ -158,8 +157,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4934e9f61bf2056f",
+  "active": "dab097766cf12cb2",
   "lastOpenFiles": [
+    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
     "Lancer Lore/Factions/Union/The Departments of Union/UNION BUREAU OF ORBITAL AND NON-TERRESTRIAL MANAGEMENT.md",
     "Lancer Lore/Factions/Horizon Collective.md",
     "Lancer Lore/Factions/Albatross.md",
@@ -168,7 +168,6 @@
     "Lancer Lore/`Key Terms/Non-Human Persons.md",
     "zzPersonal Index.md",
     "zzPersonalNotes.md",
-    "Lancer Lore/`Key Terms/Omninet.md",
-    "Lancer Lore/`Key Terms/MONIST-1.md"
+    "Lancer Lore/`Key Terms/Omninet.md"
   ]
 }
