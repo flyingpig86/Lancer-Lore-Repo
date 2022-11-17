@@ -1,34 +1,14 @@
 {
   "main": {
-    "id": "7a7b9caae36bc3a3",
+    "id": "b4b2377f0beeaa60",
     "type": "split",
     "children": [
       {
-        "id": "756821910831575d",
+        "id": "3a89627475970324",
         "type": "tabs",
         "children": [
           {
-            "id": "a412c6d3c9ce2d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lancer Lore/`Key Terms/Non-Human Persons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb4f899d4ce9cde",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dab097766cf12cb2",
+            "id": "d9b1b10a44338238",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "954a7acc469ea7ec",
+    "id": "8209fd9b8c1bf22a",
     "type": "split",
     "children": [
       {
-        "id": "9174d33992dad84c",
+        "id": "847e9bdcb3f2f846",
         "type": "tabs",
         "children": [
           {
-            "id": "03167249e185c412",
+            "id": "0a20d7ca7a291fef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,13 +43,13 @@
             }
           },
           {
-            "id": "4934e9f61bf2056f",
+            "id": "37913406520cf02f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -79,7 +58,7 @@
             }
           },
           {
-            "id": "88a71436b5386016",
+            "id": "577552169cead8ab",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -93,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "f61095e0b6b5492e",
+    "id": "e2f8c2041b047f81",
     "type": "split",
     "children": [
       {
-        "id": "220e61753e96fa1d",
+        "id": "7f157924451e993e",
         "type": "tabs",
         "children": [
           {
-            "id": "1b54dff6631c54fd",
+            "id": "eb3289bf9b783890",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -113,12 +92,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "9110e5e05d640ca9",
+            "id": "b270d25729623f43",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +109,7 @@
             }
           },
           {
-            "id": "1ae7957b2ef5f637",
+            "id": "e0898f527d5abcb4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +120,7 @@
             }
           },
           {
-            "id": "5bc49cb3a25671dd",
+            "id": "70ff4cc0b16b559e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -150,24 +129,19 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dab097766cf12cb2",
+  "active": "eb3289bf9b783890",
   "lastOpenFiles": [
-    "Lancer Lore/Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
-    "Lancer Lore/Factions/Union/The Departments of Union/UNION BUREAU OF ORBITAL AND NON-TERRESTRIAL MANAGEMENT.md",
-    "Lancer Lore/Factions/Horizon Collective.md",
-    "Lancer Lore/Factions/Albatross.md",
+    "Lancer Lore/`Key Terms/Interstellar Travel.md",
     "Lancer Lore/Factions/Landmark Colonial.md",
-    "Deimos Event.md",
-    "Lancer Lore/`Key Terms/Non-Human Persons.md",
-    "zzPersonal Index.md",
+    "Lancer Lore/`Key Terms/-Index - Key Terms.md",
+    "Lancer Lore/`Key Terms/Omninet.md",
     "zzPersonalNotes.md",
-    "Lancer Lore/`Key Terms/Omninet.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
