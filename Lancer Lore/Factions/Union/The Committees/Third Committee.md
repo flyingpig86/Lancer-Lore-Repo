@@ -2,7 +2,7 @@
 aliases [ThirdComm]
 ---
 
-#updat
+#update
 # Major Coalitions of the Third Committee
 Broadly speaking, the Third Committee’s deliberative body, the Central Committee ([[UNION CENTRAL COMMITTEEUNION CENTRAL COMMITTEE|CentComm]]), is composed of five major coalitions – groups of political parties and representatives organized into voting blocks. While working groups, break-outs, and caucuses exist within each group, the coalitions listed here provide a basis for what to expect when surveying [[UNION CENTRAL COMMITTEEUNION CENTRAL COMMITTEE|CentComm]]’s political landscape.
 
