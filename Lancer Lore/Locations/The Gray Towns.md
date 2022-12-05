@@ -1,0 +1,1 @@
+Some hundred kilometers to the east and south of Evergreen are dozens of the so-called “Gray Towns” – the “gray” in the name describing their legal relationship to Landmark. Liu Maize and Merricktown are the largest of these settlements. They serve as social hubs for the uncounted, noncitizen population that lives around Evergreen.
