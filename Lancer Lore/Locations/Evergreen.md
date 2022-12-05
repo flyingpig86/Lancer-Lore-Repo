@@ -25,6 +25,8 @@ The city’s residential districts are generally composed of mixed high-density 
 ## The Bottom of the Well
 The Bottom is owned by [[Mir Bahadur]] and the PCs will be offered functional, comfortable lodging here.
 
+A popular and well-trafficked tavern, the Bottom of the Well is a hunched, three-story building with an enclosed patio area. It is set against the river with docks extending out into the shallows. The whole first floor is a bar, meeting place, and performance space. One wall opens out onto the docks and can be buttoned up in the cold. The second and third floors contain modest one-bedroom apartments. The roof offers another patio space, where laundry is often air-dried during the summer.
+
 
 ## Other
 ### The Block
