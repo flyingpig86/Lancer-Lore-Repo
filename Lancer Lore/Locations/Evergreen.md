@@ -23,7 +23,7 @@ The colony’s largest printer, and its only scheduled one – the “Print Shop
 The city’s residential districts are generally composed of mixed high-density apartments, transit corridors, and short, walkable blocks. The western quadrants are the most built up, and the least occupied – they were built for future generations to move in and occupy. The streets in those areas are largely vacant. The eastern side, meanwhile, is lower built and less dense – though not significantly so – and is home to the bulk of Evergreen’s population.
 
 ## The Bottom of the Well
-The Bottom is owned by [[Mir Bahadur]]
+The Bottom is owned by [[Mir Bahadur]] and the PCs will be offered functional, comfortable lodging here.
 
 
 ## Other
