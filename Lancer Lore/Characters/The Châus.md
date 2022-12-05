@@ -1,0 +1,5 @@
+The Châus are a hardscrabble farming family with several homesteads around Liu Maize. Matriarchs Maggie and Weiyi Châu arrived in [[Evergreen]] twenty years after the colony’s founding on a jury-rigged hauling skiff with barely enough fuel to get them to the colony. They were married in [[Evergreen]] and spent several years working odd construction jobs around the colony before their noncitizen status was discovered and they were expelled.
+
+Not to be deterred, they’ve had ten children over the thirty years since and founded a prosperous root farming and distillation business, selling to traders, militia, and colonists for colony requisition access for necessary supplies and luxuries. They have no intention of returning to [[Evergreen]] and the family generally shuns the colony.
+
+Their son, Albert, his wife Nora, and their several children are holed up in the farmhouse.
