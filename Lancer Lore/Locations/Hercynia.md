@@ -7,5 +7,6 @@ in the fourth ring of [[``Union|Union]] space, the Atlas Line.
 
 # Climate
 
+
 # Flora and Fauna
 
