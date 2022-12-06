@@ -5,6 +5,9 @@
 [[Patience - Colonial Administrator]]
 [[Edena Ji - Attaché]]
 
+## Other
+[[zMinor Characters#Lunvilla|Lunvilla]]
+
 # Sites
 
 ## Governor's Farm
@@ -18,6 +21,18 @@ The colony’s largest printer, and its only scheduled one – the “Print Shop
 
 ## Residential Districts
 The city’s residential districts are generally composed of mixed high-density apartments, transit corridors, and short, walkable blocks. The western quadrants are the most built up, and the least occupied – they were built for future generations to move in and occupy. The streets in those areas are largely vacant. The eastern side, meanwhile, is lower built and less dense – though not significantly so – and is home to the bulk of Evergreen’s population.
+
+## The Bottom of the Well
+The Bottom is owned by [[zMinor Characters#Mir Bahadur|Mir Bahadur]] and the PCs will be offered functional, comfortable lodging here.
+
+A popular and well-trafficked tavern, the Bottom of the Well is a hunched, three-story building with an enclosed patio area. It is set against the river with docks extending out into the shallows. The whole first floor is a bar, meeting place, and performance space. One wall opens out onto the docks and can be buttoned up in the cold. The second and third floors contain modest one-bedroom apartments. The roof offers another patio space, where laundry is often air-dried during the summer.
+
+Inside the bar is a community bulletin board for posting notices and requests. The venue hosts music every other night
+
+
+## Other
+### The Block
+Local Bakery, owned by Lunvilla
 
 # Layout & Surroundings
 
