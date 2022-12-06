@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Lancer Lore/Characters/The Châus.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Lancer Lore/Characters/The Châus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md",
+                "file": "Lancer Lore/Characters/The Châus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lancer Lore/Locations/Evergreen.md"
+                "file": "Lancer Lore/Characters/The Châus.md"
               }
             }
           }
@@ -204,9 +204,9 @@
   },
   "active": "707a847a9a66cbeb",
   "lastOpenFiles": [
+    "Lancer Lore/Locations/Evergreen.md",
     "Lancer Lore/Characters/The Châus.md",
     "Lancer Lore/Characters/zMinor Characters.md",
-    "Lancer Lore/Locations/Evergreen.md",
     "Lancer Lore/Locations/Hercynia.md",
     "Lancer Lore/Factions/Union/The Committees/Third Committee.md",
     "Lancer Lore/Factions/Union/The Committees/First Committee.md",
