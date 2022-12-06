@@ -29,7 +29,6 @@ A popular and well-trafficked tavern, the Bottom of the Well is a hunched, three
 
 Inside the bar is a community bulletin board for posting notices and requests. The venue hosts music every other night
 
-
 ## Other
 ### The Block
 Local Bakery, owned by Lunvilla
