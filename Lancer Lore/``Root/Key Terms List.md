@@ -9,7 +9,7 @@ tags: [WIP]
 [[Cradle]]
 [[EGREGORIANS]]
 [[HERCYNIAN]]
-[[HERCYNIAN CRISIS]]
+[[Hercynian Crisis]]
 [[HUC]]
 [[Non-Human Persons]](Non-Human Persons)
 [[Second Committee]]
