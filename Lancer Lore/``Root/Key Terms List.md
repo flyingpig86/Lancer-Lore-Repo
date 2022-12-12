@@ -8,7 +8,7 @@ tags: [WIP]
 [[Non-Human Persons#Cascade|Cascade]]
 [[Cradle]]
 [[EGREGORIANS]]
-[[HERCYNIAN]]
+[[Hercynian]]
 [[Hercynian Crisis]]
 [[HUC]]
 [[Non-Human Persons]](Non-Human Persons)
