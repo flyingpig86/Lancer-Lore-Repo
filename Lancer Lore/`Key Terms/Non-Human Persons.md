@@ -38,7 +38,7 @@ A process through which shackled NHPs slowly “think” themselves out of their
 ## LANCER MANUAL
 {page 107, Core Book}
 
-Except for some limited systems – like comp/cons – any time a mech with the [[Artificial Intelligence|AI]] tag makes a structure damage or overheating check, roll 1d20. On a 1, the NHP’s casket has suffered a traumatic impact or code incursion and the NHP enters cascade.
+Except for some limited systems – like comp/cons – any time a mech with the AI tag makes a structure damage or overheating check, roll 1d20. On a 1, the NHP’s casket has suffered a traumatic impact or code incursion and the NHP enters cascade.
 
 When an NHP begins to cascade, they immediately take over the mech and become an NPC under the control of the GM. They plan their own agenda, and adopt one of several behavioral patterns – ignoring their pilot, overruling their pilot, trying to get their pilot out of the way, or simply acting outside the constraints of human logic and desire. In cascade, NHPs’ actions do not always conform to human logic – though they are not yet unshackled, their actions may seem odd, contrapositive, or threatening to humans.
 
