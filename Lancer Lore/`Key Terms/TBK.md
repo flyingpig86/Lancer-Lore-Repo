@@ -1,4 +1,4 @@
 >[!missing]
 
 # PISTON-1
->[!resticted]
+>[!bug]
