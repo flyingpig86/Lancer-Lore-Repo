@@ -19,7 +19,7 @@ Markerlight
 	– Shakespeare, Macbeth, act 5, sc. 1.*
 
 Oracle LMG-I
-
+	*The Oracle Indirect Light Machine Gun (designated O/LMG-I) packs a subsentient, high-volume DOWNPOUR static quad-barrel system into a single cylinder typically installed on the dorsal panel of a chassis. Paired with a firing system, the Oracle is capable of directing persistent defilade-ignorant kinetic fire at targets.*
 
 Retractable Profile
 
