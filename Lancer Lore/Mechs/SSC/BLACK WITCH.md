@@ -9,10 +9,10 @@ With a slim profile and strong defensive systems, the Black Witch is especially 
 ![Imgur](https://i.imgur.com/hkobef5.png)
 
 MAGNETIC FIELD PROJECTOR
-	Magnetic field generators are a portable and field-deployable variation on typical magnetic defense technologies. When activated, they create a magnetic bubble that traps all incoming ferrous projectiles. The strength of the field is so great that it can even draw mechs to its center. When the field is dispersed or its solid-state battery burns out – a feature, not a flaw – the field undergoes a sudden catastrophic implosion, drawing all captured projectiles to a point at the center of the bubble.
+	*Magnetic field generators are a portable and field-deployable variation on typical magnetic defense technologies. When activated, they create a magnetic bubble that traps all incoming ferrous projectiles. The strength of the field is so great that it can even draw mechs to its center. When the field is dispersed or its solid-state battery burns out – a feature, not a flaw – the field undergoes a sudden catastrophic implosion, drawing all captured projectiles to a point at the center of the bubble.*
 
 Ferrous Lash
-	Initially developed as a nonlethal crowdsuppression device, the Ferrous Lash is a far more complex and dangerous device in the hands of the right pilot. The Lash consists of a series of integrated launchers that detonate payloads of fastcongealing ferrofluids that restrain their targets. Tuned to the correct frequency, these proprietary ferrofluid blends form into rudimentary ambulatory segments, pulling their hosts back towards the one wielding the Lash.
+	*Initially developed as a nonlethal crowdsuppression device, the Ferrous Lash is a far more complex and dangerous device in the hands of the right pilot. The Lash consists of a series of integrated launchers that detonate payloads of fastcongealing ferrofluids that restrain their targets. Tuned to the correct frequency, these proprietary ferrofluid blends form into rudimentary ambulatory segments, pulling their hosts back towards the one wielding the Lash.*
 
 Magnetic Cannon
 	[[SMITH-SHIMANO CORPRO|SSC]]’s magnetic cannon is a first from the Exotic Materials Group: an aperturefocused electromagnetic projection beam that uses intense pulses of magnetic energy to disrupt and damage hardware. Targets caught in the beam of a magnetic cannon suffer additional damage to their software as massive systemic stress is inflicted on sensitive components.
