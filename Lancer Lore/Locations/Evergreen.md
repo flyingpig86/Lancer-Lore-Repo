@@ -8,7 +8,7 @@
 
 ## Other
 [[zMinor Characters#Lunvilla|Lunvilla]]
-[[zMinor Characters#]]
+[[zMinor Characters#Mir Bahadur|Mir Bahadur]]
 
 # Sites
 
