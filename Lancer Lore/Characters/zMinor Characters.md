@@ -7,3 +7,5 @@ Owner of [[Evergreen]]'s bakery the Block.
 Owner of the [[Evergreen#The Bottom of the Well|The Bottom of the Well]]
 ![Imgur](https://i.imgur.com/HMs6kch.jpg)
 >[!missing]
+
+# Be
