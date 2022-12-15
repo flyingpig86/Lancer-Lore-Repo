@@ -27,7 +27,7 @@ Retractable Profile
 
 ATHENA-Class NHP
 	*Smith-Shimano’s ATHENA is the pinnacle of total hyperspectral environmental facsimiles. Through a combination of unfettered [[omninet]] access, hyperspectral relays fired out from a Cloudscout TACSIM projector, sub-networked squadmates, and active/hostile intrusion protocols, ATHENA bootstraps a near-flawless reconstruction of the immediate environment around its host core. ATHENA is unparalleled in its processing power, and with this reconstructed environment, it provides trustworthy, accurate advice to pilots in need of strategic counsel.*
-	*ATHENA clones tend to be patient, cautious, and measured in their relations with their pilots.*
+	*ATHENA [[clones]] tend to be patient, cautious, and measured in their relations with their pilots.*
 
 LB/OC Cloaking Field
 	*SSC’s mil-spec cloaking field is the result of extensive experimentation in cooling and light-reflecting sciences. Born from a need to reflect harmful radiation away from ships and EVA modules in deep space, the Lightbend/Overcloak (LB/OC) cloaking field is often used by rangers and long-patrol scout pilots to ensure not only radiation protection, but optical concealment as well. The lightand radiation-bending properties of the LB/OC conceals anything inside of its projected bubble from sensor suites and optical spotting.*
