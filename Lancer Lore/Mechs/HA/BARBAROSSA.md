@@ -24,7 +24,7 @@ Autoloader Drone
 	*Autoloader drones are many-limbed machines that assist their team by loading ordnance, maintaining powerline hookups, and cycling magazine-fed weapons, in addition to many other physical tasks.*
 
 Flak Launcher
-
+	*Designed for use against atmospheric fliers, these anti-air autocannons fire simple, proximity or impact-detonated shells effective against light armor, organic, and subaltern targets.*
 
 External Ammo Feed
 
