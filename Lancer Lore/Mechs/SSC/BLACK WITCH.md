@@ -15,7 +15,7 @@ Ferrous Lash
 	*Initially developed as a nonlethal crowdsuppression device, the Ferrous Lash is a far more complex and dangerous device in the hands of the right pilot. The Lash consists of a series of integrated launchers that detonate payloads of fastcongealing ferrofluids that restrain their targets. Tuned to the correct frequency, these proprietary ferrofluid blends form into rudimentary ambulatory segments, pulling their hosts back towards the one wielding the Lash.*
 
 Magnetic Cannon
-	[[SMITH-SHIMANO CORPRO|SSC]]’s magnetic cannon is a first from the Exotic Materials Group: an aperturefocused electromagnetic projection beam that uses intense pulses of magnetic energy to disrupt and damage hardware. Targets caught in the beam of a magnetic cannon suffer additional damage to their software as massive systemic stress is inflicted on sensitive components.
+	*[[SMITH-SHIMANO CORPRO|SSC]]’s magnetic cannon is a first from the Exotic Materials Group: an aperturefocused electromagnetic projection beam that uses intense pulses of magnetic energy to disrupt and damage hardware. Targets caught in the beam of a magnetic cannon suffer additional damage to their software as massive systemic stress is inflicted on sensitive components.*
 
 ICEOUT Drone
 	[[SMITH-SHIMANO CORPRO|SSC]]’s ICEOUT drone is a response to increasing reliance on hostile system scans for accurate targeting. By blanketing a mech’s systems in layers of digital defilade, mirroring, spoofing, and redirection, an ICEOUT drone can effectively disappear or disincorporate it from hostile scans. ICEOUT drones only make their operator system-invisible, however; they remain visible with optics
