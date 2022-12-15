@@ -4,7 +4,7 @@ aliases: [NHP,NHPs,Deimo, Deimos]
 
 NHP stands for “non-human person” a name given to uncanny, incorporeal parallel-space beings, most of which were discovered and developed following the manifestation of [[MONIST-1]]/[[MONIST-1|RA]], though some have been created since then. NHPs fill the role once occupied by machine-mind AIs: under supervision, they manage whole cities and systems, work alongside scientists and engineers, and act as companions and co-pilots for mech pilots and starship captains. They are black-box [[Paracausal]] entities – their promulgation tightly controlled and monitored by [[``Union|Union]]– but their use is widespread. NHPs are increasingly regarded as fundamental infrastructure for any successful civic, scientific, or military endeavor.
 
-
+![Imgur](https://i.imgur.com/02tM45O.jpg)
 
 >[!bug]
 
