@@ -24,7 +24,6 @@ Molten Wreathe
 Total Strength Suite II
 	*The second part of Xiong’s enhancement package: interlocking muscle-analog plates beneath armor, finely tuned to greatly multiply crushing force.*
 
-
 D/D 288
 
 
