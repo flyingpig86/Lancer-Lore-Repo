@@ -8,3 +8,4 @@ The Monarch’s large size often leads pilots to underestimate its agility. [[SM
 
 ![Imgur](https://i.imgur.com/GgkMNSu.png)
 
+SSC-30 HIGH-PENETRATION MISSILE SYSTEM
