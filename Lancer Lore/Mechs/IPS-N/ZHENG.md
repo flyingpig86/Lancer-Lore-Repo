@@ -13,3 +13,6 @@ XIONG-TYPE CQB SUITE
 	*Surviving mostly on colonial rations and an increasingly radioactive air supply, Xiaoli scavenged materials from a dying ship to create modifications that gave her mech unprecedented unarmed striking power.*
 
 Tiger-Hunter Combat Sheathe
+
+
+Total Strength Suite I
