@@ -1,2 +1,2 @@
 ---
-aliases: []
+aliases: [WORLDKILLER]
