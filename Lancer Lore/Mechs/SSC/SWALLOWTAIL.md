@@ -4,7 +4,7 @@ tags: [SSC]
 
 The Swallowtail is Smith-Shimano’s primary long-range scouting and firesupport platform, built for rapid and sustained ranging across hostile, volatile environments. Built for long-term sustainability, it can operate in unstable environs for months and maximize its survivability by adjusting its operating efficiency on the fly. Each unit has an integrated cloak and a suite of predictive choral intelligences that coordinate its highly developed sensor systems to rapidly simulate and predict tactical developments – sometimes before they even occur.
 
-The Swallowtail’s base model, the SW-01, is one of SSC’s few mass-produced lines – the entry-level BELLA CIAO model. Built without a cloaking field and uparmored to address direct security requirements, the SW-01 is especially popular among the rank and file troopers of Constellar Security forces.
+The Swallowtail’s base model, the SW-01, is one of [[SMITH-SHIMANO CORPRO|SSC]]’s few mass-produced lines – the entry-level BELLA CIAO model. Built without a cloaking field and uparmored to address direct security requirements, the SW-01 is especially popular among the rank and file troopers of Constellar Security forces.
 
 ![Imgur](https://i.imgur.com/W4aFN86.png)
 
@@ -30,3 +30,4 @@ ATHENA-Class NHP
 	*ATHENA clones tend to be patient, cautious, and measured in their relations with their pilots.*
 
 LB/OC Cloaking Field
+	*SSC’s mil-spec cloaking field is the result of extensive experimentation in cooling and light-reflecting sciences. Born from a need to reflect harmful radiation away from ships and EVA modules in deep space, the Lightbend/Overcloak (LB/OC) cloaking field is often used by rangers and long-patrol scout pilots to ensure not only radiation protection, but optical concealment as well. The lightand radiation-bending properties of the LB/OC conceals anything inside of its projected bubble from sensor suites and optical spotting.*
