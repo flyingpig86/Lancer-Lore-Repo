@@ -16,7 +16,7 @@ Tiger-Hunter Combat Sheathe
 	*This enhancement encases a mech’s manipulators and brachial structures in a powerful reactive alloy weave, allowing it to use its fists as blunt weapons, even unarmed.*
 
 Total Strength Suite I
-
+	*This whole-system upgrade was the result of tweak Xiong Xiaoli made to her mech throughout a long career with the MSMC, many of which have now been incorporated into standard IPS-N frame construction protocol. The package comes in three stages, the first of which contains a set of spinal enhancements that allow a mech to rapidly lift and move large weights without systemic damage.*
 
 Molten Wreathe
 
