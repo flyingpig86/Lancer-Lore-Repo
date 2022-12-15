@@ -13,7 +13,8 @@ SSC-30 HIGH-PENETRATION MISSILE SYSTEM
 
 Javelin Rockets
 	“Pralaya was the name of your mother. She who would see the dawn-at-the-end. Her beauty was terrible, and her wrath, and I see it in all of you. My sons, when you hear the sound of thunder – that is your mother’s voice, and the rain of missiles her gift.”
-		— “Notes for Young John”,
+	
+	— “Notes for Young John”,
 	Ministrations of the Master Teacher
 
 Sharanga Missiles
