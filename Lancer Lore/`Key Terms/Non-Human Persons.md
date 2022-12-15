@@ -6,8 +6,10 @@ NHP stands for “non-human person” a name given to uncanny, incorporeal paral
 
 >[!bug]
 
->[!failure]
->cont.
+#update
+NHPs are commonly utilized in military, scientific, municipal, civic, and diplomatic pursuits. It is rarer for private individuals to have access to, much less command over, an NHP, though most people on [[Galactic Core]] worlds, among the Cosmopolita, and advanced Diasporan worlds have some knowledge of them. On [[Galactic Core|Core]] worlds, people interact with their municipal NHP on a daily basis via its many aspects: transit systems, service requests, access to public databases, and so on.
+
+NHP licensing requirements are strict and enforced without exception: all NHPs issued are registered, tracked, required to record a cycling logbook, and undergo annual Balwinder-Bolaño development tests to reassess their cycling schedule. If at all possible, these check-ins are to be done in person, but in practice most are handled via the [[omninet]]. In [[``Union|Union]]’s view, the danger posed by NHPs cannot be underestimated; however, their usefulness is deemed worth the risk.
 
 # Casket
 NHPs are contained within the physical architecture of a casket. If an NHP's casket is destroyed without some sort of external backup, that iteration of the NHP and all of their knowledge are lost.
