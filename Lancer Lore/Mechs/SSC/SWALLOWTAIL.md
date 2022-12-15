@@ -17,7 +17,7 @@ Lotus Projector
 Markerlight
 	*“Out, damned spot! Out, I say! – One, two. Why, then, ‘tis time to do’t. Hell is murky! – Fie, my lord, fie! A soldier, and afeard? What need we fear who knows it, when none can call our power to account?”
 	
-	*
+	– Shakespeare, Macbeth, act 5, sc. 1.*
 
 Oracle LMG-I
 
