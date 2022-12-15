@@ -24,7 +24,7 @@ Perimeter Command Plate
 	*The Exotic Materials Group developed the Perimeter Command Plate to extend the area of the Black Witch’s zone of control. Utilizing single-pattern flash printers, the Black Witch prints a broad, circular plate seeded with electromagnetic projectors. Although the plates are intended to be disposable, Black Witch pilots often grow attached to their “familiars” and request their flash-printers create personalized plates.*
 
 Black ICE Module
-	Black ICE modules are defensive systems packaged standard with the Black Witch fleets used by [[SMITH-SHIMANO CORPRO|SSC]]'s own internal security forces. They project a bubble of WHITECELL code that analyzes incoming hostile script and structures inoculants for friendly systems on the fly.
+	*Black ICE modules are defensive systems packaged standard with the Black Witch fleets used by [[SMITH-SHIMANO CORPRO|SSC]]'s own internal security forces. They project a bubble of WHITECELL code that analyzes incoming hostile script and structures inoculants for friendly systems on the fly.*
 
 Magnetic Shield
-	[[SMITH-SHIMANO CORPRO|SSC]]’s magnetic shield takes the same technology as their proprietary magnetic buckler and applies it to a massive field-projection system.
+	*[[SMITH-SHIMANO CORPRO|SSC]]’s magnetic shield takes the same technology as their proprietary magnetic buckler and applies it to a massive field-projection system.*
