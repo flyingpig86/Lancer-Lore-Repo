@@ -12,8 +12,8 @@ NHP stands for “non-human person” a name given to uncanny, incorporeal paral
 # Casket
 NHPs are contained within the physical architecture of a casket. If an NHP's casket is destroyed without some sort of external backup, that iteration of the NHP and all of their knowledge are lost.
 
->[!failure]
->cont
+#
+Cloned NHP units are contained within “caskets”, physical containment systems for their folded-blinkspace minds. Containment caskets can be printed anywhere, but NHP minds themselves must be physically delivered: [[``Union|Union]] forbids the transmission of NHP minds across the [[omninet]]. Once implanted into a casket, the casket is what amounts to an NHP’s physical body: if a casket is physically destroyed, the NHP contained within is lost, forever. NHPs cloned this way inevitably develop their own personalities and quirks, and prefer to be called by whatever name they have chosen or been assigned.
 
 # Shackling
 
