@@ -25,6 +25,7 @@ Total Strength Suite II
 	*The second part of Xiong’s enhancement package: interlocking muscle-analog plates beneath armor, finely tuned to greatly multiply crushing force.*
 
 D/D 288
+	*The Zheng’s Devastator/Demolition Weapon 288 is legendary for its ability to breach armor and inflict total destruction on hardened targets. Originally rigged up as a last resort by Xiong Xiaoli, this fistmounted system repurposes a mech reactor’s primary heat vent into a directional, engagement-proximity weapon. The production line D/D 288 must be primed before firing, requiring a dangerous power draw from the mechs’ systems; Trunk Security’s reportage of the recovery mission assumes that using this weapons is what killed Xiong Xiaoli and cored the White Tiger’s gunboat. The D/D 288’s ability to cause enormous collateral damage and its spectacular discharge when fired have earned it the moniker ‘Shā mǎ zhǎng’ or Horse-Killing Palm among MSMC pilots.*
 
 
 Total Strength Suite III
