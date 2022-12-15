@@ -18,7 +18,7 @@ APOCALYPSE RAIL
 	*Semi-Autonomous Directed Payload Charges – “roller charges,” in the colloquial – propel themselves around cover, through corridors, and across uneven terrain, seeking out and detonating near hostile targets. Armory legionnaires have taken to naming individual rollers, but mascotattachment is unadvisable.*
 
 Siege Stabilizers
-	**
+	*Some weapons require further stabilization for optimal use. With Armory-designed siege stabilizers installed, a mech becomes a stable firing platform for any weapon.*
 
 Autoloader Drone
 
