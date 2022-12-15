@@ -20,7 +20,7 @@ The life of an MSMC mercenary is dangerous and difficult, but it does offer an e
 
 It’s easy to join Mirrorsmoke, and there’s always room for advancement: MSMC missions have high casualty rates, and survivors are quickly promoted as they display their competency. Following training, new recruits are assigned either to a local detachment or a unit matching their future specialization. These semiautonomous detachments are equivalent to battalions in traditional militaries. PCs with Mirrorsmoke backgrounds are (or were) likely part of one such unit. 
 
-MSMC detachments are identified with numbered designations (between 001 and 999) and an unofficial nickname or two (e.g., the MSMC 501st Detachment, popularly known as the “One-Eyed Fox” or “the Here- For-Nows”). Each detachment is led by a board officer, who keeps at least one partner from Mirrorsmoke Legal on staff. They are empowered to seek out, negotiate, and execute contracts independently, but must report quarterly (in Union Realtime) to MSMC’s central omni address. 
+MSMC detachments are identified with numbered designations (between 001 and 999) and an unofficial nickname or two (e.g., the MSMC 501st Detachment, popularly known as the “One-Eyed Fox” or “the Here- For-Nows”). Each detachment is led by a board officer, who keeps at least one partner from Mirrorsmoke Legal on staff. They are empowered to seek out, negotiate, and execute contracts independently, but must report quarterly (in [[``Union|Union]] Realtime) to MSMC’s central omni address. 
 
 Like its mercenary corps and detachments, MSMC’s legal teams take on intimidating names: Jackal and Hades, Esq., for example, is one of the more notorious firms. 
 
