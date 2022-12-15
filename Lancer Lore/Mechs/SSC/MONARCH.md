@@ -31,5 +31,6 @@ Pinaka Missiles
 	*Pinaka missiles are massive, two-stage missiles typically mounted along a mech’s spine or carried, disassembled, to be launched from a brachial mount. The Pinaka was originally adapted from shipto- ship missiles; as such, their second stage uses jet-assist repositioning for midflight orientation.*
 
 TLALOC-Class NHP
+TLALOC-Class NHPs provide advanced multisystem targeting and co-pilot functions, taking over subroutine control to ensure persistent lock-on and engagement. With TLALOC installed and operational, a pilot can trust that their back is always covered, and every possible advantage exploited.
 
 
