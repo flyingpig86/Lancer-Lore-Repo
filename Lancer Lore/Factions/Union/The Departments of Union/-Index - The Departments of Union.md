@@ -21,4 +21,4 @@
 
 [[GALSIM]]
 
-[[Union Intelligence Bureau]]
+[[UNION INTELLIGENCE BUREAU]]
