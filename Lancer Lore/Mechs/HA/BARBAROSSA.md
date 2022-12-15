@@ -15,7 +15,7 @@ APOCALYPSE RAIL
 	The LGC-04 “Apocalypse Rail” system is scaled considerably down from its intended operational role – that is, replacing capital ship spinal spool cannons – in order to effect the accumulation of live data for use in improving the system prior to naval adoption.*
 
 “Roller” Directed Payload Charges
-
+	*Semi-Autonomous Directed Payload Charges – “roller charges,” in the colloquial – propel themselves around cover, through corridors, and across uneven terrain, seeking out and detonating near hostile targets. Armory legionnaires have taken to naming individual rollers, but mascotattachment is unadvisable.*
 
 Siege Stabilizers
 
