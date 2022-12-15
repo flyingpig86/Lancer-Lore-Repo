@@ -18,6 +18,8 @@ Javelin Rockets
 
 Sharanga Missiles
 	*“It was a duel. This is why they were made: to duel, and in that combat, to shake the pillars of the universe.”*
+	— “Notes for Young John”,
+Ministrations of the Master Teacher
 
 Gandiva Missiles
 
