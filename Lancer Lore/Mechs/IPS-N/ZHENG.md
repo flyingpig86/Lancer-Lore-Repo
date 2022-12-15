@@ -19,7 +19,7 @@ Total Strength Suite I
 	*This whole-system upgrade was the result of tweak Xiong Xiaoli made to her mech throughout a long career with the MSMC, many of which have now been incorporated into standard IPS-N frame construction protocol. The package comes in three stages, the first of which contains a set of spinal enhancements that allow a mech to rapidly lift and move large weights without systemic damage.*
 
 Molten Wreathe
-	INeeding a significant boost to her Raleigh’s melee capacity, Xiong decided upon a crude but effective solution: she would re-route her Raleigh’s coldcore dispersion systems into the chassis’ palms with a simple on/off switch, allowing it to superheat equipped weapons. The resultant ad hoc thermal weapon is so hot that it prompts an explosive vaporization of hard and soft surfaces on impact, creating a secondary backblast cloud that is a deadly weapon in its own right. The production version of this system simply adds a sturdier, dedicated routing system and better insulation.
+	**
 
 Total Strength Suite II
 
