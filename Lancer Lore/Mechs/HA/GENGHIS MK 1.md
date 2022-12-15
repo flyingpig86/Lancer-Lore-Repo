@@ -10,3 +10,7 @@ These old-pattern Genghis mechs are buried all over [[Hercynia]] in various stat
 ![Imgur](https://i.imgur.com/HU4T4Mx.png)
 
 Core System 
+Inside his great suit the fireman smiles.
+He is a salamander upon the world,
+belching flame, cleaning away history, and
+leaving a new land for the living.
