@@ -1,5 +1,5 @@
 
 ---
-aliases: [Diaspora, Diasporan]
+aliases: [Diaspora]
 ---
 To be a <u>Diasporan</u> is to be a member of the largest class of humanity: world-bound people outside of the [[Galactic Core]], who identify with single homeworlds they may never leave. <u>Diasporans</u> make up the vast bulk of the human population, settled and left to develop on their own during the {{First and Second Expansion Periods}}. The Diaspora includes everyone from the people of worlds proximal to the [[Galactic Core|Core]] through to worlds that have lived without – or have never known – [[``Union|Union’s]] presence for thousands of years, and all other societies in between. <u>Diasporan</u> worlds can be covered in glittering or stinking metroswathes, mixed urban spaces, quiet ecological preserves, arcadian paradises, or lonely terrestrial barrens – any places humans or groups of humans can live. For better or for worse, the Diaspora is what people see when they think of “humanity”.
