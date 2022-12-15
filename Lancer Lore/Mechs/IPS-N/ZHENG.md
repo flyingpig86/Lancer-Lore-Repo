@@ -9,3 +9,4 @@ Xiong Xiaoli is widely regarded as a bodhisattva across the Long Rim; [[MIRRORSM
 ![Imgur](https://i.imgur.com/cDqTETs.png)
 
 
+XIONG-TYPE CQB SUITE
