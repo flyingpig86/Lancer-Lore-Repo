@@ -5,3 +5,7 @@ In her logbook, Xiong noted that her chassis, a factory-standard [[ISP-NORTHSTAR
 Xiong likely did not survive the long engagement. She is presumed to have perished mere days before an [[ISP-NORTHSTAR|IPS-N]] Trunk Security patrol arrived, responding to the convoy's initial distress signal. Trunk Security found that Xiong had eliminated every White Tiger pirate assigned to the convoy; her chassis, logbook, and trace elements of her body were discovered in the White Tiger’s cored-out gunboat and recovered by [[ISP-NORTHSTAR|IPS-N]]. Thanks to her efforts, Trunk Security and [[MIRRORSMOKE MERCENARY COMPANY|MSMC]] were able to hunt down the remaining White Tiger gang and eliminate them. [[ISP-NORTHSTAR|IPS-N]] and [[MIRRORSMOKE MERCENARY COMPANY|MSMC]] then engaged in a lengthy negotiation over the modified Raleigh’s plans, eventually settling on a mixed licensing fee that benefits both [[ISP-NORTHSTAR|IPS-N]] and [[MIRRORSMOKE MERCENARY COMPANY|MSMC]]. The resulting pattern, the Zheng, is now a popular choice among [[MIRRORSMOKE MERCENARY COMPANY|MSMC]] and Trunk Security pilots operating across the Rim.
 
 Xiong Xiaoli is widely regarded as a bodhisattva across the Long Rim; [[MIRRORSMOKE MERCENARY COMPANY|MSMC]] mercenaries have created several drinking games named after her, and [[MIRRORSMOKE MERCENARY COMPANY|MSMC]] pilots on combat contracts often compete to hit the “Xiong Limit” of 45+ confirmed kills.
+
+![Imgur](https://i.imgur.com/cDqTETs.png)
+
+
