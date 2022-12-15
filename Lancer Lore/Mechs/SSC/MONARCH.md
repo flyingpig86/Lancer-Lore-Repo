@@ -12,7 +12,7 @@ SSC-30 HIGH-PENETRATION MISSILE SYSTEM
 	The SSC-30 High-Penetration Missile System (SSC-30 HPMS) is a mech-mounted micro-missile delivery system capable of tremendous combat output. Using the SSC-30 HPMS, the Monarch can carry – and deliver – its payload of 60 or more deadly, miniaturized Avenger warheads in a single volley.
 
 Javelin Rockets
-
+“Pralaya was the name of your mother. She who would see the dawn-at-the-end. Her beauty was terrible, and her wrath, and I see it in all of you. My sons, when you hear the sound of thunder – that is your mother’s voice, and the rain of missiles her gift.”
 
 Sharanga Missiles
 
