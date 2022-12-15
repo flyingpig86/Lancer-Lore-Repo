@@ -21,7 +21,7 @@ Siege Stabilizers
 	*Some weapons require further stabilization for optimal use. With Armory-designed siege stabilizers installed, a mech becomes a stable firing platform for any weapon.*
 
 Autoloader Drone
-
+	*Autoloader drones are many-limbed machines that assist their team by loading ordnance, maintaining powerline hookups, and cycling magazine-fed weapons, in addition to many other physical tasks.*
 
 Flak Launcher
 
