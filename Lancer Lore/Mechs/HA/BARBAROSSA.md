@@ -11,6 +11,5 @@ The Barbarossa is a popular target for Purview essayists, who have been known to
 
 APOCALYPSE RAIL
 	*Fresh from the Armory’s dayside research and development campus, the LGC-04 “Apocalypse Rail” is an exponential gravitic catapult – a to-scale test product pushed to licensed pilots for field trials as part of the Armory’s ongoing Plenary Beach Magnitude Weapons Test Project.
-	
-*
+	Distinct from current logarithmic short- or long-spool ship-to-ship weapons (kinetic or energetic/particular), this new platform taps into the Armory’s current gravitic research to exponentially charge and distribute a kinetic payload downrange. This increase in potential energy loading and decrease in total charge time comes at the cost of stability: where the logarithmic spool cannon is stable and shock-resistant, the exponential gravitic catapult is prone to destabilization. For the time being, built-in failsafes will trigger in the event of sudden traumatic destabilization to prevent detonation of the system, resetting any charging process underway at the time of the shock.*
 	
