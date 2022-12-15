@@ -1,6 +1,7 @@
 ---
 tags: [SSC]
 ---
+
 The Black Witch is the flagship model of [[SMITH-SHIMANO CORPRO|SSC]]’s LUX-Iconic line of frames, on paper meant to compete with [[Harrison Armory]]’s dominance in the field of cutting-edge gravity and electromagnetic manipulation. Utilizing the newest technologies developed by [[SMITH-SHIMANO CORPRO|SSC]]’s Exotic Materials Group, the Black Witch is a fearsome area-control platform, often fielded in support of heavier mechs engaged in direct combat.
 
 With a slim profile and strong defensive systems, the Black Witch is especially popular among the wealthier houses of the [[Karrakin Trade Baronies]], who often place multiple orders to outfit their personal guards and house company officers. Next to internally produced Baronic frames, the Black Witch (alongside other [[SMITH-SHIMANO CORPRO|SSC]] LUX-Iconic models) is the most popular [[SMITH-SHIMANO CORPRO|SSC]] chassis throughout noble Karrakin space.
