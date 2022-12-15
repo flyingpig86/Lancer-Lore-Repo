@@ -12,7 +12,7 @@ CLOUDSCOUT TACSIM SWARMS
 	*Cloudscout TACSIM Swarms are packets of networked microsensors, launched in nonlethal mortar canisters that detonate high above the battlefield. Once seeded, the swarm generates a TACSIM program that begins to run brevity cycles: tight, contained simulations of tactical possibility. Probability results are then fed to the Swallowtail’s choir processors, which in turn feed it to the pilot and networked squad members, ensuring a high probability of successful outcomes.*
 
 Lotus Projector
-
+	*Mech-mounted Lotus Projectors are designed to launch small, actively camouflaged scout drones. The projector fires the single-use drones at subsonic speeds in bursts of ten, blanketing a wide area in order to relay information about terrain and targets within.*
 
 Markerlight
 
