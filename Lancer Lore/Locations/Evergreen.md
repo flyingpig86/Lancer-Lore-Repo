@@ -8,7 +8,7 @@
 
 ## Other
 [[zMinor Characters#Lunvilla|Lunvilla]]
-[[z]]
+[[zMinor Characters#]]
 
 # Sites
 
