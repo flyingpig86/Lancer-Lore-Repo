@@ -6,3 +6,6 @@ The Barbarossa is Harrison Armory’s most massive frame to date, built, per the
 
 The Barbarossa is a popular target for Purview essayists, who have been known to remark on the drawbacks that come with its size and how, as a result, it is a perfect stand-in for their political enemies.
 
+![Imgur](https://i.imgur.com/GS7eXd8.png)
+
+
