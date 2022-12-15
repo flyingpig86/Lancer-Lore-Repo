@@ -22,6 +22,7 @@ Molten Wreathe
 	*Needing a significant boost to her Raleigh’s melee capacity, Xiong decided upon a crude but effective solution: she would re-route her Raleigh’s coldcore dispersion systems into the chassis’ palms with a simple on/off switch, allowing it to superheat equipped weapons. The resultant ad hoc thermal weapon is so hot that it prompts an explosive vaporization of hard and soft surfaces on impact, creating a secondary backblast cloud that is a deadly weapon in its own right. The production version of this system simply adds a sturdier, dedicated routing system and better insulation.*
 
 Total Strength Suite II
+	*The second part of Xiong’s enhancement package: interlocking muscle-analog plates beneath armor, finely tuned to greatly multiply crushing force.*
 
 
 D/D 288
