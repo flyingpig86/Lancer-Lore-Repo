@@ -10,3 +10,7 @@ The Swallowtail’s base model, the SW-01, is one of SSC’s few mass-produced l
 
 CLOUDSCOUT TACSIM SWARMS
 	*Cloudscout TACSIM Swarms are packets of networked microsensors, launched in nonlethal mortar canisters that detonate high above the battlefield. Once seeded, the swarm generates a TACSIM program that begins to run brevity cycles: tight, contained simulations of tactical possibility. Probability results are then fed to the Swallowtail’s choir processors, which in turn feed it to the pilot and networked squad members, ensuring a high probability of successful outcomes.*
+
+Lotus Projector
+
+
