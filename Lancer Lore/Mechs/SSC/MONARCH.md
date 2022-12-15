@@ -28,7 +28,7 @@ Stabilizer Mod
 	*Stabilizer mods enhance physical mounts and targeting software, ensuring weapons remain level, steady, and at an appropriate angle regardless of terrain or pilot maneuvers.*
 
 Pinaka Missiles
-Pinaka missiles are massive, two-stage missiles typically mounted along a mech’s spine or carried, disassembled, to be launched from a brachial mount. The Pinaka was originally adapted from shipto- ship missiles; as such, their second stage uses jet-assist repositioning for midflight orientation.
+	*Pinaka missiles are massive, two-stage missiles typically mounted along a mech’s spine or carried, disassembled, to be launched from a brachial mount. The Pinaka was originally adapted from shipto- ship missiles; as such, their second stage uses jet-assist repositioning for midflight orientation.*
 
 TLALOC-Class NHP
 
