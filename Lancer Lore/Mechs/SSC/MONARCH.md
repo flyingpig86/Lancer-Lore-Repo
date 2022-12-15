@@ -17,7 +17,7 @@ Javelin Rockets
 	Ministrations of the Master Teacher*
 
 Sharanga Missiles
-
+	*“It was a duel. This is why they were made: to duel, and in that combat, to shake the pillars of the universe.”*
 
 Gandiva Missiles
 
