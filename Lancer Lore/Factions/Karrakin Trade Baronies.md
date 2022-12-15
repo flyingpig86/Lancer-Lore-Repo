@@ -3,9 +3,6 @@ aliases: [KTB,Baronies]
 tags: [new]
 ---
 
-#AddTo 
-Factions/...
-
 *“And Throne Karrakis, from which all power flows.”
 – Umara II, Record-Keeper of the House of Water.*
 
