@@ -9,6 +9,7 @@
 ## Other
 [[zMinor Characters#Lunvilla|Lunvilla]]
 [[zMinor Characters#Mir Bahadur|Mir Bahadur]]
+[[zMinor Characters#Pvt. Eli "Beeble" Benetton|Pvt. Beeble]]
 
 # Sites
 
