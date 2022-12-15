@@ -32,7 +32,9 @@ NHPs recognize themselves as people, albeit not human ones, and they willingly s
 A process through which shackled NHPs slowly “think” themselves out of their constrained states(shackles). This traumatic process happens naturally over time but can be avoided by periodic resets, called [[Non-Human Persons#Cycling|"cycling"]].
 
 ## Cycling
->[!failure]
+#update
+The cycling process, fortunately, is reliable and bears an essentially perfect success rate when performed according to a given NHP’s endogenous cascade schedule. The recommended length between cycles varies between NHP lines but tends to range between five and ten subjective years.
+Why this process conforms to subjective time and not realtime is unknown and currently under study.
 
 
 ## LANCER MANUAL
