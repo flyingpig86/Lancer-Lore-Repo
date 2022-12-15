@@ -4,6 +4,7 @@
 [[Brava Hadura - Militia Commander]]
 [[Patience - Colonial Administrator]]
 [[Edena Ji - Attaché]]
+[[Castor Fielding]]
 
 ## Other
 [[zMinor Characters#Lunvilla|Lunvilla]]
