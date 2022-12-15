@@ -1,3 +1,4 @@
 ---
 aliases: [WORLDKILLER]
+tags: [HA]
 ---
