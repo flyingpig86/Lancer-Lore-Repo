@@ -9,3 +9,4 @@ These old-pattern Genghis mechs are buried all over [[Hercynia]] in various stat
 
 ![Imgur](https://i.imgur.com/HU4T4Mx.png)
 
+Core System 
