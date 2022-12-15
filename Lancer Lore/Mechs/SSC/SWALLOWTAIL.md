@@ -7,3 +7,5 @@ The Swallowtail is Smith-Shimano’s primary long-range scouting and firesupport
 The Swallowtail’s base model, the SW-01, is one of SSC’s few mass-produced lines – the entry-level BELLA CIAO model. Built without a cloaking field and uparmored to address direct security requirements, the SW-01 is especially popular among the rank and file troopers of Constellar Security forces.
 
 ![Imgur](https://i.imgur.com/W4aFN86.png)
+
+CLOUDSCOUT TACSIM SWARMS
