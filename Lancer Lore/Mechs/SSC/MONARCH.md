@@ -25,7 +25,7 @@ Gandiva Missiles
 	*Gandiva missiles are a reliable mainstay from Smith-Shimano’s BELLA CIAO line. Like the heavier Pinaka, the Gandiva is equipped with jet-assisted midflight repositioning systems, enhancing target navigation in rapidly changing battlefield environments. The Gandiva’s delivery platform is administered by a hivemind comp/con drone AI, giving it the capacity to learn from each right-of-launch experience.*
 
 Stabilizer Mod
-
+	*Stabilizer mods enhance physical mounts and targeting software, ensuring weapons remain level, steady, and at an appropriate angle regardless of terrain or pilot maneuvers.*
 
 Pinaka Missiles
 
