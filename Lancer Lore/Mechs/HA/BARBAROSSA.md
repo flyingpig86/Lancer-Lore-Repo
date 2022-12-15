@@ -10,5 +10,6 @@ The Barbarossa is a popular target for Purview essayists, who have been known to
 
 
 APOCALYPSE RAIL
-	*Fresh from the Armory’s dayside research and development campus, the LGC-04 “Apocalypse Rail” is an exponential gravitic catapult – a to-scale test product pushed to licensed pilots for field trials as part of the Armory’s ongoing Plenary Beach Magnitude Weapons Test Project.*
+	*Fresh from the Armory’s dayside research and development campus, the LGC-04 “Apocalypse Rail” is an exponential gravitic catapult – a to-scale test product pushed to licensed pilots for field trials as part of the Armory’s ongoing Plenary Beach Magnitude Weapons Test Project.
+	*
 	
