@@ -9,7 +9,7 @@ The Monarch’s large size often leads pilots to underestimate its agility. [[SM
 ![Imgur](https://i.imgur.com/GgkMNSu.png)
 
 [[SMITH-SHIMANO CORPRO|SSC]]-30 HIGH-PENETRATION MISSILE SYSTEM
-	*The [[SMITH-SHIMANO CORPRO|SSC]]-30 High-Penetration Missile System ([[SMITH-SHIMANO CORPRO|SSC]]-30 HPMS) is a mech-mounted micro-missile delivery system capable of tremendous combat output. Using the SSC-30 HPMS, the Monarch can carry – and deliver – its payload of 60 or more deadly, miniaturized Avenger warheads in a single volley.*
+	*The [[SMITH-SHIMANO CORPRO|SSC]]-30 High-Penetration Missile System ([[SMITH-SHIMANO CORPRO|SSC]]-30 HPMS) is a mech-mounted micro-missile delivery system capable of tremendous combat output. Using the [[SMITH-SHIMANO CORPRO|SSC]]-30 HPMS, the Monarch can carry – and deliver – its payload of 60 or more deadly, miniaturized Avenger warheads in a single volley.*
 
 Javelin Rockets
 	*“Pralaya was the name of your mother. She who would see the dawn-at-the-end. Her beauty was terrible, and her wrath, and I see it in all of you. My sons, when you hear the sound of thunder – that is your mother’s voice, and the rain of missiles her gift.”*
@@ -22,7 +22,7 @@ Sharanga Missiles
 	Ministrations of the Master Teacher*
 
 Gandiva Missiles
-	*Gandiva missiles are a reliable mainstay from Smith-Shimano’s BELLA CIAO line. Like the heavier Pinaka, the Gandiva is equipped with jet-assisted midflight repositioning systems, enhancing target navigation in rapidly changing battlefield environments. The Gandiva’s delivery platform is administered by a hivemind comp/con drone AI, giving it the capacity to learn from each right-of-launch experience.*
+	*Gandiva missiles are a reliable mainstay from Smith-Shimano’s BELLA CIAO line. Like the heavier Pinaka, the Gandiva is equipped with jet-assisted midflight repositioning systems, enhancing target navigation in rapidly changing battlefield environments. The Gandiva’s delivery platform is administered by a hivemind comp/con drone [[Artificial Intelligence|AI]], giving it the capacity to learn from each right-of-launch experience.*
 
 Stabilizer Mod
 	*Stabilizer mods enhance physical mounts and targeting software, ensuring weapons remain level, steady, and at an appropriate angle regardless of terrain or pilot maneuvers.*
@@ -30,6 +30,6 @@ Stabilizer Mod
 Pinaka Missiles
 	*Pinaka missiles are massive, two-stage missiles typically mounted along a mech’s spine or carried, disassembled, to be launched from a brachial mount. The Pinaka was originally adapted from shipto- ship missiles; as such, their second stage uses jet-assist repositioning for midflight orientation.*
 
-TLALOC-Class NHP
+TLALOC-Class [[Non-Human Persons|NHP]]
 	*TLALOC-Class NHPs provide advanced multisystem targeting and co-pilot functions, taking over subroutine control to ensure persistent lock-on and engagement. With TLALOC installed and operational, a pilot can trust that their back is always covered, and every possible advantage exploited.
 	TLALOC clones are often stereotyped as hasty and impetuous, and they are wellknown for having superiority complexes. Despite this, they are some of the most stable NHP clones. Leading subjectivity theorists suggest that the wide portfolio of control and sense of domination given to TLALOC units encourages a sense of contentment with their work and subjectivity parameters – as a result, they have a much longer cascade window. Thus far, this theory is consistently reproducible across all TLALOC units, although there is no similar correlation among other mil-spec NHP lines.*
