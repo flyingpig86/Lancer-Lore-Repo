@@ -1,5 +1,5 @@
 ---
-aliases [ThirdComm]
+aliases: [ThirdComm]
 ---
 
 #update

@@ -9,10 +9,30 @@ Unique-subjectivity, natural-life [[Clones#Facsimile Clones|“facsimile”]] cl
 Growing a body is easy; it is a very different thing – and much more fraught – to override a <u>clone’s</u> natural subjectivity with the cobbled-together cognitive profile of the deceased. [[Clones#Facsimile Clones|Facsimile]] subjectivity cloning is incredibly expensive, subject to intense scrutiny, and restricted to approved entities; Unless a pilot is lucky enough to work for an organization with [[``Union|Union's]] express sanction to run one of these rare and arguably unethical cloning programs, any cloning that does take place is probably unlawful.
 
 # Facsimile Clones
->[!failure]
+#update 
+Under [[Third Committee|ThirdComm]], cloning – that is, the cultivation and growth of whole or partial genetic facsimiles of persons and other fauna, whether cultivated in realtime or via catalytic processes – occupies a spectrum of legality, morality, and ethics. 
+
+To legally clone a person or their constituent parts requires informed consent from the donor. They must understand that full-body clones are their own persons, with their own subjectivity and personal rights. Nothing can give the donor legal authority over their facsimile unless the donor has requested a facsimile to raise as their own child. In the latter case, the donor is granted legal recognition of a culturally appropriate parent-offspring relationship, commensurate with all relevant mores, traditions, and legal rights. 
+
+For all intents and purposes – legally, subjectively, practically – whole-body clones are individuals distinct from their donor. They are people, with their own legal rights and entitlements. The only way they differ from “natural-born” persons is that their genetic data is identical to that of their donor; they are otherwise indistinguishable. 
+
+Partial cloning is commonly used for medical purposes. Tissue, major organs, viable follicles, limbs, and bodily fluids – nothing capable of conscious or unconscious thought – are all regularly cloned to provide donors with exact-match replacements. In this context, too, donors must provide informed consent as defined by their culture or state before this type of cloning is allowed. 
+
+Modern perceptions of clones are strongly weighted by the echoes and artifacts of recent history.
+
+[[DEPARTMENT OF JUSTICE AND HUMAN RIGHTS|DoJ/HR]]’s Facsimile Rights Department frequently handles legal claims from facsimile persons and oversees cloning facilities, spot checks, and maintenance of public genetic proof data. Liberator teams commonly run point on regulation and enforcement actions targeting underground flash-cloning sites. PCs that are facsimile persons will likely have some knowledge of their genetic donor.
 
 # Flash Clones 
->[!failure]
+#update
+In times of crisis, or when a rush order needed to be filled, so-called “flash” clones were created instead6. Grown in artificial birthing chambers, flash clones could be cultivated from zygote to physically mature adult in less than five years. While flash-clone creation started from the same basis as facsimile clones – donated genetic material – the accelerated growth process that flash clones underwent was traumatic and prone to error. While facsimile clones have the duration of a natural life to learn, grow, and form their own subjectivity, flash clones were created for a task – filling out the ranks of armed forces, or replacing a depleted mining corps – and thus were considered to be disposable once the immediate task that required their production was accomplished. 
+
+Because of the traumatic growth and cognition-conditioning processes involved in flash-cloning, flash clones were prone to rapid onset degenerative diseases, atypical neurogenesis, a wide range of anomalous tumors, catastrophic immunodeficiencies, and many other chronic, terminal genetic illnesses. But the majority of people created in flash-cloning facilities did not live long enough to suffer the effects of the process that birthed them; the process was designed to churn out human bodies with speed, not accuracy, and to assign them one task with little regard for their rights, decency, or humanity. [[Third Committee|Third‐ Comm]] rejected whole-subjectivity flash-cloning outright as a core assumption of its Utopian Pillars. 
+
+A process influenced by the flash-cloning technologies developed during the Neo-Anthropocene Period (“rapid cloning”) still takes place, but it is reserved for medical constituent-tissue cloning: simple procedures where limbs, gross tissue, digits, or organs are needed to rectify a stable patient’s physical trauma. The materials needed to graft new skin after a burn, or transplant perfect-match organs and limbs where they have been severed or damaged, for example, – can be grown within hours of genetic mapping. 
+
+The cloning methods of old still exist in some places, filling in the gray spaces of legality and morality. Despite the outlawing of whole-body flash-cloning, it is allegedly practiced by [[Harrison Armory]] and a number of the larger Baronic houses. Progressive [[Third Committee|ThirdComm]] members regularly urge action to fulfill [[``Union|Union]]’s mandate and often task [[DEPARTMENT OF JUSTICE AND HUMAN RIGHTS|DoJ/HR]] with enforcing the ban against smaller targets. Meanwhile, the Armory and the [[Karrakin Trade Baronies|Baronies]] argue that their flash-cloning methods are similar to those that came before in name only, and that their processes are much safer.
+
+Flash-clone PCs tend to be citizens (to some degree) of [[Harrison Armory]] or subjects of a Karrakin trade baron. Their natural lifespan may or may not be truncated as a result of the flash-cloning process. PCs that are flash clones from somewhere other than the Armory or the [[Karrakin Trade Baronies|Baronies]] might face more complications, and will likely be regarded as sympathetic witnesses in [[UNION NAVAL DEPARTMENT|UN]] and [[DEPARTMENT OF JUSTICE AND HUMAN RIGHTS|DoJ/HR]] investigations.
 
 # Clones under SeccComm
 #update
