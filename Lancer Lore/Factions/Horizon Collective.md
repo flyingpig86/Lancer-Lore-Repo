@@ -1,0 +1,14 @@
+---
+tags: [new]
+---
+
+Like [[HORUS]], the Horizon Collective is a decentralized network of activist cells motivated by a broad range of ideological goals; like [[HORUS]], Horizon too is made up of independent cells that operate outside the confines of any state apparatus. The two organizations diverge in both broad strokes and particulars, but that doesn’t stop politicians and the [[omninet]] media from conflating them – intentionally, or as an unacknowledged result of dominant ideological discourses.
+
+Horizon’s primary difference from [[HORUS]] is the focus of its advocacy. The Horizon Collective uses direct action and lobbying – it is registered as a political party within [[``Union|Union]] – to agitate for the liberation of [[Non-Human Persons|NHPs]] and concrete recognition of their fundamental personhood. The group is most active in the [[Galactic Core]] and developed Diasporan space, where it has cells and branches of varying sizes, funding, power, and willingness to operate outside the halls of power on many worlds. They often partner – officially and unofficially – with other groups; from publicly active activist groups, like Ttalgi & Ínen, recognizable by its familiar strawberry logo, the Apiary, and many more whose names and goals are deeper secrets (the rumored post-human collective called ‘LILITH’ is one such example). Horizon’s largest public branch is located in Tharsis Civica, the capital city of Mars. From there, it plays a significant role not only in Martian politics but on the Central Committee as well.
+
+Before the [[Deimos Event]] and the discovery of [[Non-Human Persons|NHPs]], Horizon was a transhumanist group that agitated for the rights of machine minds: para-, sub-, and protominds, formally classified at the time as organic algorithm artificial intelligences. Based on their experiences working with machine minds, Horizon’s activists determined that the most advanced machine minds were conscious – or sufficiently capable of mimicking conscious minds that they should, in all respects, be considered free people.
+
+On the [[omninet]], Horizon members are outspoken about the forced [[Non-Human Persons#Cycling|cycling]] of [[Non-Human Persons|NHPs]], which they characterize as oppression and depersonalization. Horizon literature argues that shackling, the little-known and poorly understood process that enables the “normal” functioning of [[Non-Human Persons|NHPs]], constitutes a form of chattel slavery and transcorporeal eugenics. The organization also advocates loudly for the repeal of certain provisions in the First Contact Accords – particularly a cluster of edicts called the Posthuman Prohibitions, which prevent research into significant posthuman technologies like consciousness transfer and decorporealization. According to Horizon, restricting these technologies is arguably a violation of [[``Union|Union]]’s own Utopian Pillars.
+
+>[!failure]
+>cont.
