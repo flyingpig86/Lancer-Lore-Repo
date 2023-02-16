@@ -19,7 +19,7 @@ Comp/con wingmen are the user-facing equivalent of military administrative comp/
 
 Like civilian comp/con units, neither copy drives nor comp/con wingmen require shackling or cycling.
 
-# NHPs
+# [[Non-Human Persons|NHPs]]
 Separate page. Click [[Non-Human Persons|here]].
 
 # Lancer Manual
