@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
