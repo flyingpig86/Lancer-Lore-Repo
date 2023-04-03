@@ -128,6 +128,40 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "1ea9f3828a531e67",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "`Key Terms/TBK.md",
+    "`Key Terms/HERCYNIAN.md",
+    "`Key Terms/HERCYNIAN CRISIS.md",
+    "`Key Terms/Anthrochauvinism.md",
+    "Mechs/SSC/SWALLOWTAIL.md",
+    "Mechs/SSC/MONARCH.md",
+    "Mechs/SSC/BLACK WITCH.md",
+    "Mechs/SSC",
+    "Mechs/IPS-N/ZHENG.md",
+    "Mechs/IPS-N",
+    "Mechs/HA/GENGHIS MK 1.md",
+    "Mechs/HA/BARBAROSSA.md",
+    "Mechs/HA",
+    "Locations/The Gray Towns.md",
+    "Locations/Merricktown.md",
+    "Factions/Union/The Departments of Union/GALSIM.md",
+    "Factions/The Machine.md",
+    "Factions/Karrakin Trade Baronies.md",
+    "Factions/HUC.md",
+    "Factions/EGREGORIANS.md",
+    "Characters/zMinor Characters.md",
+    "Characters/The Châus.md",
+    "Characters/Castor Fielding - Chief Engineer.md"
+  ]
 }
