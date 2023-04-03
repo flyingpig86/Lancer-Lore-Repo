@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ea9f3828a531e67",
+  "active": "0854ea83847265d7",
   "lastOpenFiles": [
     "`Key Terms/TBK.md",
     "`Key Terms/HERCYNIAN.md",
