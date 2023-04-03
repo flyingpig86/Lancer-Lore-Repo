@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "f9b56034263b722c",
+    "id": "26272afa808ae89b",
     "type": "split",
     "children": [
       {
-        "id": "d2a308b40d316323",
+        "id": "9ade915e7c5b8f62",
         "type": "tabs",
         "children": [
           {
-            "id": "574ecb6a0c20f918",
+            "id": "1ea9f3828a531e67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e7d2aa306da693ad",
+    "id": "dc5372647a7675ca",
     "type": "split",
     "children": [
       {
-        "id": "ba905f3fbbfc41c2",
+        "id": "a818acfd160140f0",
         "type": "tabs",
         "children": [
           {
-            "id": "671c884fb952778c",
+            "id": "ee06aca327e7fdb5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +43,12 @@
             }
           },
           {
-            "id": "8e61d300926959d5",
+            "id": "0854ea83847265d7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,33 +58,35 @@
             }
           },
           {
-            "id": "c3d8acf5d38b344a",
+            "id": "cd97b6aa6fdcb495",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "3bac2e294ef12db0",
+    "id": "0ad8671b10d0ed54",
     "type": "split",
     "children": [
       {
-        "id": "7cee4f42ab150f94",
+        "id": "8184d43bd662a8e5",
         "type": "tabs",
         "children": [
           {
-            "id": "71699faaf29f6c20",
+            "id": "a72a294c1f60290d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +98,19 @@
             }
           },
           {
-            "id": "cc4006d0c2a0cdc6",
+            "id": "8b261bcc03e0f86f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b5d156c90c42da37",
+            "id": "19ab2e0040c19256",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,25 +121,59 @@
             }
           },
           {
-            "id": "4eb65730fd9168cc",
+            "id": "a34cba33a3e6e96d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "671c884fb952778c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ea9f3828a531e67",
   "lastOpenFiles": [
     "zzPersonal Index.md",
-    "conflict-files-obsidian-git.md",
-    "Lancer Lore/Locations/Cradle.md",
-    "Lancer Lore/Factions/MIRRORSMOKE MERCENARY COMPANY.md",
-    "test.md"
+    "Factions/Union/The Departments of Union/UNION INTELLIGENCE BUREAU.md",
+    "Factions/MIRRORSMOKE MERCENARY COMPANY.md",
+    "`Key Terms/TBK.md",
+    "`Key Terms/HERCYNIAN.md",
+    "`Key Terms/HERCYNIAN CRISIS.md",
+    "`Key Terms/Anthrochauvinism.md",
+    "Mechs/SSC/SWALLOWTAIL.md",
+    "Mechs/SSC/MONARCH.md",
+    "Mechs/SSC/BLACK WITCH.md",
+    "Mechs/SSC",
+    "Mechs/IPS-N/ZHENG.md",
+    "Mechs/IPS-N",
+    "Mechs/HA/GENGHIS MK 1.md",
+    "Mechs/HA/BARBAROSSA.md",
+    "Mechs/HA",
+    "Locations/The Gray Towns.md",
+    "Locations/Merricktown.md",
+    "Factions/Union/The Departments of Union/GALSIM.md",
+    "Factions/The Machine.md",
+    "Factions/Karrakin Trade Baronies.md",
+    "Factions/HUC.md",
+    "Factions/EGREGORIANS.md",
+    "Characters/zMinor Characters.md",
+    "Characters/The Châus.md",
+    "Characters/Castor Fielding - Chief Engineer.md"
   ]
 }
