@@ -11,8 +11,12 @@
             "id": "1ea9f3828a531e67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#new",
+                "query": "#up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Union/The Departments of Union/UNION SCIENCE BUREAU.md"
+              }
             }
           }
         ]
@@ -139,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0854ea83847265d7",
+  "active": "1ea9f3828a531e67",
   "lastOpenFiles": [
     "`Key Terms/TBK.md",
     "`Key Terms/HERCYNIAN.md",
